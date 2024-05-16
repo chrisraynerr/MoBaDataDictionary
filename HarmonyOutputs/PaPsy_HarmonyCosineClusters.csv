@@ -1,0 +1,176 @@
+question_no,question,cluster,similarity.to.cluster.centre,Var1,SubjectQ,ItemCode,Scale,Subject,Wave,ScaleItem,QCode1,value
+4. ,Have you found that you were not able to stop drinking once you had started,2,0.5267384463710428,HaveYouFoundThatYouWereNotAbleToStopDrinkingOnceYouHadStarted,MoQ09,NN353,AUDIT,Mother,Q09,AUDIT04,NN,0.527
+5. ,Have you failed to do what was normally expected from you because of drinking,2,0.6048146156023819,HaveYouFailedToDoWhatWasNormallyExpectedFromYouBecauseOfDrinking,MoQ09,NN354,AUDIT,Mother,Q09,AUDIT05,NN,0.605
+6. ,Have you needed a first drink in the morning to get yourself going after a heavy drinking session,2,0.4322619430697833,HaveYouNeededAFirstDrinkInTheMorningToGetYourselfGoingAfterAHeavyDrinkingSession,MoQ09,NN355,AUDIT,Mother,Q09,AUDIT06,NN,0.432
+7. ,Have you had a feeling of guilt or remorse after drinking alcohol,2,0.614972533959788,HaveYouHadAFeelingOfGuiltOrRemorseAfterDrinkingAlcohol,MoQ09,NN356,AUDIT,Mother,Q09,AUDIT07,NN,0.615
+8. ,Have you been unable to remember what happened the night before because you had been drinking alcohol,2,0.5096737447088562,HaveYouBeenUnableToRememberWhatHappenedTheNightBeforeBecauseYouHadBeenDrinkingAlcohol,MoQ09,NN357,AUDIT,Mother,Q09,AUDIT08,NN,0.51
+9. ,Have you or someone else been injured as a result of your drinking,2,0.6869472857251379,HaveYouOrSomeoneElseBeenInjuredAsAResultOfYourDrinking,MoQ09,NN358,AUDIT,Mother,Q09,AUDIT09,NN,0.687
+10. ,Has a relative friend or doctor or other health worker been concerned about your drinking or suggested that you cut down,2,0.6054338677116972,HasARelativeFriendOrDoctorOrOtherHealthWorkerBeenConcernedAboutYourDrinkingOrSuggestedThatYouCutDown,MoQ09,NN359,AUDIT,Mother,Q09,AUDIT10,NN,0.605
+26. ,Your child fails to leave a note or let you know where he or she is going,4,0.4942741617133531,YourChildFailsToLeaveANoteOrLetYouKnowWhereHeOrSheIsGoing,MoQ09,NN337,APQ,Mother,Q09,APQ10,NN,0.494
+27. ,Your child talks you out of being punished after he or she has done something wrong,2,0.4591703191937608,YourChildTalksYouOutOfBeingPunishedAfterHeOrSheHasDoneSomethingWrong,MoQ09,NN338,APQ,Mother,Q09,APQ11,NN,0.459
+28. ,Your child stays out in the evening after the time he or she is supposed to be home,4,0.3701656698796145,YourChildStaysOutInTheEveningAfterTheTimeHeOrSheIsSupposedToBeHome,MoQ09,NN339,APQ,Mother,Q09,APQ12,NN,0.37
+31. ,Your child is out with friends you dont know,4,0.47069319651332975,YourChildIsOutWithFriendsYouDontKnow,MoQ09,NN342,APQ,Mother,Q09,APQ13,NN,0.471
+1. ,Mental health,0,0.5311848372998196,MentalHealth,MoQ07,LL363,SCL,Mother,Q07,SCL01,LL,0.531
+63. ,I expect my children to do what they are told immediately without questions,4,0.5072569128025881,IExpectMyChildrenToDoWhatTheyAreToldImmediatelyWithoutQuestions,MoQ07,LL376,PAQR,Mother,Q07,PAQR01,LL,0.507
+64. ,Other parents should use more force to get their children to behave properly,4,0.4829392550532951,OtherParentsShouldUseMoreForceToGetTheirChildrenToBehaveProperly,MoQ07,LL377,PAQR,Mother,Q07,PAQR02,LL,0.483
+65. ,Smart parents should early teach their children who is the boss in the family,4,0.48677146737593296,SmartParentsShouldEarlyTeachTheirChildrenWhoIsTheBossInTheFamily,MoQ07,LL378,PAQR,Mother,Q07,PAQR03,LL,0.487
+66. ,Most of the problems could be solved if parents would let their children choose their own activities make their own decisions and follow their own dreams when they grow up,4,0.4770489308320334,MostOfTheProblemsCouldBeSolvedIfParentsWouldLetTheirChildrenChooseTheirOwnActivitiesMakeTheirOwnDecisionsAndFollowTheirOwnDreamsWhenTheyGrowUp,MoQ07,LL379,PAQR,Mother,Q07,PAQR04,LL,0.477
+67. ,I let my children decide most of the things by their own without much help from me,4,0.5291288418711622,ILetMyChildrenDecideMostOfTheThingsByTheirOwnWithoutMuchHelpFromMe,MoQ07,LL380,PAQR,Mother,Q07,PAQR05,LL,0.529
+68. ,I dont control the behaviour the activities or wishes of my children,4,0.5403362615495895,IDontControlTheBehaviourTheActivitiesOrWishesOfMyChildren,MoQ07,LL381,PAQR,Mother,Q07,PAQR06,LL,0.54
+69. ,You let your child know when he or she is doing a good job with something,4,0.6187004934109346,YouLetYourChildKnowWhenHeOrSheIsDoingAGoodJobWithSomething,MoQ07,LL526,APQ,Mother,Q07,APQ01,LL,0.619
+70. ,You threaten to punish your child and then do not actually punish him or her,4,0.3781938211460139,YouThreatenToPunishYourChildAndThenDoNotActuallyPunishHimOrHer,MoQ07,LL527,APQ,Mother,Q07,APQ02,LL,0.378
+71. ,You have a friendly talk with your child,4,0.5370612647872509,YouHaveAFriendlyTalkWithYourChild,MoQ07,LL528,APQ,Mother,Q07,APQ03,LL,0.537
+72. ,Your child talks him or herself out of being punished after he or she has done something wrong,2,0.4870144368037478,YourChildTalksHimOrHerselfOutOfBeingPunishedAfterHeOrSheHasDoneSomethingWrong,MoQ07,LL529,APQ,Mother,Q07,APQ04,LL,0.487
+73. ,You ask your child about their day in childcare,4,0.530364510434985,YouAskYourChildAboutTheirDayInChildcare,MoQ07,LL530,APQ,Mother,Q07,APQ05,LL,0.53
+74. ,You compliment your child when he or she has done something well,4,0.5502683386230591,YouComplimentYourChildWhenHeOrSheHasDoneSomethingWell,MoQ07,LL531,APQ,Mother,Q07,APQ06,LL,0.55
+75. ,You praise your child if he or she behaves well,4,0.5453261163920138,YouPraiseYourChildIfHeOrSheBehavesWell,MoQ07,LL532,APQ,Mother,Q07,APQ07,LL,0.545
+76. ,You talk to your child about their friends,4,0.5139649619598385,YouTalkToYourChildAboutTheirFriends,MoQ07,LL533,APQ,Mother,Q07,APQ08,LL,0.514
+77. ,You let your child out of a punishment early e g lift restrictions earlier than you originally said,4,0.4064076515653047,YouLetYourChildOutOfAPunishmentEarlyEGLiftRestrictionsEarlierThanYouOriginallySaid,MoQ07,LL534,APQ,Mother,Q07,APQ09,LL,0.406
+1. ,How often do you have trouble wrapping up the final details of a project,4,0.36563390137933377,HowOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProject,MoQ06,GG503,ASRS,Mother,Q06,ASRS01,GG,0.366
+2. ,How often do you have difficulty getting things in order when you have to do,4,0.4898954307460018,HowOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDo,MoQ06,GG504,ASRS,Mother,Q06,ASRS02,GG,0.49
+3. ,When you have a task that requires a lot of thought how often do you avoid,4,0.5687876333184215,WhenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoid,MoQ06,GG505,ASRS,Mother,Q06,ASRS03,GG,0.569
+5. ,How often do you fidget or squirm with your hands or feet when you have to,2,0.36712664134630574,HowOftenDoYouFidgetOrSquirmWithYourHandsOrFeetWhenYouHaveTo,MoQ06,GG507,ASRS,Mother,Q06,ASRS05,GG,0.367
+6. ,How often do you feel overly active and compelled to do things like you,0,0.5220365124192263,HowOftenDoYouFeelOverlyActiveAndCompelledToDoThingsLikeYou,MoQ06,GG508,ASRS,Mother,Q06,ASRS06,GG,0.522
+30. ,What i do has little effect on my childs behaviour,4,0.5421665465690398,WhatIDoHasLittleEffectOnMyChildsBehaviour,MoQ06,GG616,PLOC,Mother,Q06,PLOC01,GG,0.542
+31. ,My child is used to getting what he or she wants in any case so theres no point in even trying to refuse him or her,4,0.43442613248451917,MyChildIsUsedToGettingWhatHeOrSheWantsInAnyCaseSoTheresNoPointInEvenTryingToRefuseHimOrHer,MoQ06,GG617,PLOC,Mother,Q06,PLOC02,GG,0.434
+32. ,Cuddles and hugs are an important way of showing my child that i love him or her,4,0.36733032606584176,CuddlesAndHugsAreAnImportantWayOfShowingMyChildThatILoveHimOrHer,MoQ06,GG618,PLOC,Mother,Q06,PLOC03,GG,0.367
+33. ,If my child and i have a disagreement it is usually easy to divert him or her,4,0.5810513551557357,IfMyChildAndIHaveADisagreementItIsUsuallyEasyToDivertHimOrHer,MoQ06,GG619,PLOC,Mother,Q06,PLOC04,GG,0.581
+34. ,5 my life is chiefly controlled by my child,4,0.5628432365947145,5MyLifeIsChieflyControlledByMyChild,MoQ06,GG620,PLOC,Mother,Q06,PLOC05,GG,0.563
+35. ,I think it is very important for my child to learn to deal with the fact he or she cannot get their own way on everything,4,0.5628379190106989,IThinkItIsVeryImportantForMyChildToLearnToDealWithTheFactHeOrSheCannotGetTheirOwnWayOnEverything,MoQ06,GG621,PLOC,Mother,Q06,PLOC06,GG,0.563
+36. ,It is often easier to let my child have their own way than to put up with a tantrum,4,0.5018518566779786,ItIsOftenEasierToLetMyChildHaveTheirOwnWayThanToPutUpWithATantrum,MoQ06,GG622,PLOC,Mother,Q06,PLOC07,GG,0.502
+37. ,Sometimes when im tired i let my child get to do things that i usually would not have allowed otherwise,4,0.4844496999663169,SometimesWhenImTiredILetMyChildGetToDoThingsThatIUsuallyWouldNotHaveAllowedOtherwise,MoQ06,GG623,PLOC,Mother,Q06,PLOC08,GG,0.484
+38. ,It isnt so important what strategies you use to bring up your children if you love your children they will develop well,4,0.531767368383489,ItIsntSoImportantWhatStrategiesYouUseToBringUpYourChildrenIfYouLoveYourChildrenTheyWillDevelopWell,MoQ06,GG624,PLOC,Mother,Q06,PLOC09,GG,0.532
+54. ,I really enjoy my work,3,0.44548812791631875,IReallyEnjoyMyWork,MoQ06,GG611,SWLS,Mother,Q06,SWLS06,GG,0.445
+12. ,If someone opposes me i can find the means and ways to get what i want,4,0.36521680178607663,IfSomeoneOpposesMeICanFindTheMeansAndWaysToGetWhatIWant,MoQ05,EE624,GSE,Mother,Q05,GES02,EE,0.365
+22. ,Have blamed yourself unnecessarily when things went wrong,2,0.6342709577735989,HaveBlamedYourselfUnnecessarilyWhenThingsWentWrong,MoQ04,DD827,EPDS,Mother,Q04,EPDS01,DD,0.634
+23. ,Have been anxious or worried for no good reason,0,0.74859439837169,HaveBeenAnxiousOrWorriedForNoGoodReason,MoQ04,DD828,EPDS,Mother,Q04,EPDS02,DD,0.749
+24. ,Have felt scared or panicky for no very good reason,0,0.8068611886154002,HaveFeltScaredOrPanickyForNoVeryGoodReason,MoQ04,DD829,EPDS,Mother,Q04,EPDS03,DD,0.807
+25. ,Have been so unhappy that you have had difficulty sleeping,2,0.7243353732855629,HaveBeenSoUnhappyThatYouHaveHadDifficultySleeping,MoQ04,DD830,EPDS,Mother,Q04,EPDS04,DD,0.724
+26. ,Have felt sad or miserable,0,0.6978984548405268,HaveFeltSadOrMiserable,MoQ04,DD831,EPDS,Mother,Q04,EPDS05,DD,0.698
+27. ,Have been so unhappy that you have been crying,2,0.6722251123652822,HaveBeenSoUnhappyThatYouHaveBeenCrying,MoQ04,DD832,EPDS,Mother,Q04,EPDS06,DD,0.672
+44. ,Have you been seriously worried that there is something wrong with your child,2,0.5711165551985168,HaveYouBeenSeriouslyWorriedThatThereIsSomethingWrongWithYourChild,MoQ04,DD813,AdLifEv,Mother,Q04,ALE05,DD,0.571
+49. ,Have you been pressurized into having sexual intercourse,2,0.47409444997034805,HaveYouBeenPressurizedIntoHavingSexualIntercourse,MoQ04,DD823,AdLifEv,Mother,Q04,ALE10,DD,0.474
+24. ,Feel mad at somebody,0,0.691131674379489,FeelMadAtSomebody,MoQ03,CC1215,DES,Mother,Q03,DES06,CC,0.691
+25. ,I can always manage to solve difficult problems if i try hard enough,4,0.36036451491048166,ICanAlwaysManageToSolveDifficultProblemsIfITryHardEnough,MoQ03,CC1216,GSE,Mother,Q03,GES01,CC,0.36
+26. ,If someone opposes me i can find the means and ways to get what i,4,0.35762926362766295,IfSomeoneOpposesMeICanFindTheMeansAndWaysToGetWhatI,MoQ03,CC1217,GSE,Mother,Q03,GES02,CC,0.358
+27. ,I am confident that i could deal efficiently with unexpected events,4,0.3594775515745486,IAmConfidentThatICouldDealEfficientlyWithUnexpectedEvents,MoQ03,CC1218,GSE,Mother,Q03,GES03,CC,0.359
+28. ,I can remain calm when facing difficulties because i can rely on my coping abilities,3,0.5762597489575294,ICanRemainCalmWhenFacingDifficultiesBecauseICanRelyOnMyCopingAbilities,MoQ03,CC1219,GSE,Mother,Q03,GES04,CC,0.576
+29. ,If i am in trouble i can think of a good solution,4,0.44936052965318807,IfIAmInTroubleICanThinkOfAGoodSolution,MoQ03,CC1220,GSE,Mother,Q03,GES05,CC,0.449
+39. ,Have you had problems at work or where you study,2,0.7153057374910258,HaveYouHadProblemsAtWorkOrWhereYouStudy,MoQ03,CC1233,AdLifEv,Mother,Q03,ALE01,CC,0.715
+40. ,Have you had financial problems,2,0.7217057128563994,HaveYouHadFinancialProblems,MoQ03,CC1235,AdLifEv,Mother,Q03,ALE02,CC,0.722
+41. ,Have you been divorced separated or ended the relationship with your partner,1,0.6604822232369176,HaveYouBeenDivorcedSeparatedOrEndedTheRelationshipWithYourPartner,MoQ03,CC1237,AdLifEv,Mother,Q03,ALE03,CC,0.66
+42. ,Have you had any problems or conflicts with your family friends or neighbors,2,0.7911801859397353,HaveYouHadAnyProblemsOrConflictsWithYourFamilyFriendsOrNeighbors,MoQ03,CC1239,AdLifEv,Mother,Q03,ALE04,CC,0.791
+43. ,Have you been seriously ill or injured,2,0.8141273222970252,HaveYouBeenSeriouslyIllOrInjured,MoQ03,CC1241,AdLifEv,Mother,Q03,ALE06,CC,0.814
+44. ,Has anyone close to you been seriously ill or injured,2,0.7998883666996031,HasAnyoneCloseToYouBeenSeriouslyIllOrInjured,MoQ03,CC1243,AdLifEv,Mother,Q03,ALE07,CC,0.8
+45. ,Have you been involved in a serious traffic accident house fire or robbery,2,0.6966372853113655,HaveYouBeenInvolvedInASeriousTrafficAccidentHouseFireOrRobbery,MoQ03,CC1245,AdLifEv,Mother,Q03,ALE08,CC,0.697
+46. ,Have you lost someone close to you,2,0.629552792918567,HaveYouLostSomeoneCloseToYou,MoQ03,CC1247,AdLifEv,Mother,Q03,ALE09,CC,0.63
+1. ,Had argument of bad feelings with a family member,2,0.5177025365950617,HadArgumentOfBadFeelingsWithAFamilyMember,MoQ01,AA1470,RAPI,Mother,Q01,RAPI01,AA,0.518
+2. ,Suddenly found yourself in a place that you could not remember getting to,2,0.4135271052341802,SuddenlyFoundYourselfInAPlaceThatYouCouldNotRememberGettingTo,MoQ01,AA1471,RAPI,Mother,Q01,RAPI02,AA,0.414
+3. ,Been absent from work or school,2,0.48573373834787076,BeenAbsentFromWorkOrSchool,MoQ01,AA1472,RAPI,Mother,Q01,RAPI03,AA,0.486
+4. ,Fainted or passed out suddenly,2,0.4856944532174316,FaintedOrPassedOutSuddenly,MoQ01,AA1473,RAPI,Mother,Q01,RAPI04,AA,0.486
+5. ,Had a bad time,2,0.5662268509163524,HadABadTime,MoQ01,AA1474,RAPI,Mother,Q01,RAPI05,AA,0.566
+11. ,I have a close relationship with my spouse or partner,1,0.8284008437936249,IHaveACloseRelationshipWithMySpouseOrPartner,MoQ01,AA1532,RS,Mother,Q01,RSS01,AA,0.828
+15. ,I often consider ending our relationship,1,0.7219895902125645,IOftenConsiderEndingOurRelationship,MoQ01,AA1536,RS,Mother,Q01,RSS05,AA,0.722
+17. ,We frequently disagree on important decisions,4,0.45846626381477834,WeFrequentlyDisagreeOnImportantDecisions,MoQ01,AA1538,RS,Mother,Q01,RSS07,AA,0.458
+18. ,I have been lucky in my choice of a partner,1,0.7060041896435612,IHaveBeenLuckyInMyChoiceOfAPartner,MoQ01,AA1539,RS,Mother,Q01,RSS08,AA,0.706
+20. ,I believe my partner is satisfied with our relationship,1,0.9114330999290593,IBelieveMyPartnerIsSatisfiedWithOurRelationship,MoQ01,AA1541,RS,Mother,Q01,RSS10,AA,0.911
+12. ,Feel tense or keyed up,0,0.7607638092778005,FeelTenseOrKeyedUp,FaQ12,G527,SCL,Father,Q12,SCL09,G,0.761
+14. ,Feeling low in energy slowed down,0,0.4706412149691715,FeelingLowInEnergySlowedDown,FaQ12,G529,SCL,Father,Q12,SCL10,G,0.471
+15. ,Crying easily,0,0.5845100580540297,CryingEasily,FaQ12,G5210,SCL,Father,Q12,SCL11,G,0.585
+16. ,Feeling of being useless,3,0.6710692883976541,FeelingOfBeingUseless,FaQ12,G5211,SCL,Father,Q12,SCL12,G,0.671
+17. ,Blaming yourself for things,2,0.49580912022801776,BlamingYourselfForThings,FaQ12,G5212,SCL,Father,Q12,SCL13,G,0.496
+1. ,Feeling fearful,0,0.8357881207123625,FeelingFearful,FaQ01,FF251,SCL,Father,Q01,SCL01,FF,0.836
+2. ,Nervousness or shakiness inside,0,0.7675000943719874,NervousnessOrShakinessInside,FaQ01,FF252,SCL,Father,Q01,SCL02,FF,0.768
+3. ,Feeling hopeless about the future,3,0.5914397711572936,FeelingHopelessAboutTheFuture,FaQ01,FF253,SCL,Father,Q01,SCL03,FF,0.591
+4. ,Feeling blue,0,0.5947278121455735,FeelingBlue,FaQ01,FF254,SCL,Father,Q01,SCL04,FF,0.595
+5. ,Worrying too much about things,0,0.6916833333258509,WorryingTooMuchAboutThings,FaQ01,FF255,SCL,Father,Q01,SCL05,FF,0.692
+6. ,Feeling everything is an effort,3,0.6801060555953466,FeelingEverythingIsAnEffort,FaQ01,FF256,SCL,Father,Q01,SCL06,FF,0.68
+7. ,Feeling tense or keyed up,0,0.7602248349493572,FeelingTenseOrKeyedUp,FaQ01,FF257,SCL,Father,Q01,SCL07,FF,0.76
+8. ,Suddenly scared for no reason,0,0.6829250487464404,SuddenlyScaredForNoReason,FaQ01,FF258,SCL,Father,Q01,SCL08,FF,0.683
+9. ,I have a positive attitude toward myself,3,0.673327679004644,IHaveAPositiveAttitudeTowardMyself,FaQ01,FF265,RSES,Father,Q01,RSES01,FF,0.673
+10. ,I feel completely useless at times,3,0.5601218758655714,IFeelCompletelyUselessAtTimes,FaQ01,FF266,RSES,Father,Q01,RSES02,FF,0.56
+11. ,I feel that i do not have much to be proud about,3,0.5761866981131628,IFeelThatIDoNotHaveMuchToBeProudAbout,FaQ01,FF267,RSES,Father,Q01,RSES03,FF,0.576
+12. ,I feel that i am a valuable person as good as anyone else,3,0.5934839872124535,IFeelThatIAmAValuablePersonAsGoodAsAnyoneElse,FaQ01,FF268,RSES,Father,Q01,RSES04,FF,0.593
+13. ,In most ways my life is close to my ideal,3,0.7483391372095969,InMostWaysMyLifeIsCloseToMyIdeal,FaQ01,FF269,SWLS,Father,Q01,SWLS01,FF,0.748
+14. ,The conditions of my life are excellent,3,0.7222123882950356,TheConditionsOfMyLifeAreExcellent,FaQ01,FF270,SWLS,Father,Q01,SWLS02,FF,0.722
+15. ,I am satisfied with my life,3,0.8098377526023084,IAmSatisfiedWithMyLife,FaQ01,FF271,SWLS,Father,Q01,SWLS03,FF,0.81
+16. ,So far i have gotten the important things i want in life,3,0.6585810081568225,SoFarIHaveGottenTheImportantThingsIWantInLife,FaQ01,FF272,SWLS,Father,Q01,SWLS04,FF,0.659
+17. ,If i could live my life over i would change almost nothing,3,0.5508949989526369,IfICouldLiveMyLifeOverIWouldChangeAlmostNothing,FaQ01,FF273,SWLS,Father,Q01,SWLS05,FF,0.551
+18. ,Feel glad about something,3,0.6864072891662911,FeelGladAboutSomething,FaQ01,FF277,DES,Father,Q01,DES01,FF,0.686
+19. ,Feel happy,3,0.698165085197237,FeelHappy,FaQ01,FF278,DES,Father,Q01,DES02,FF,0.698
+20. ,Feel joyful like everything is going your way everything is rosy,3,0.7377472066484339,FeelJoyfulLikeEverythingIsGoingYourWayEverythingIsRosy,FaQ01,FF279,DES,Father,Q01,DES03,FF,0.738
+21. ,Feel like screaming at somebody or banging on something,0,0.7366814919412976,FeelLikeScreamingAtSomebodyOrBangingOnSomething,FaQ01,FF280,DES,Father,Q01,DES04,FF,0.737
+22. ,Feel angry irritated annoyed,0,0.7627923245590973,FeelAngryIrritatedAnnoyed,FaQ01,FF281,DES,Father,Q01,DES05,FF,0.763
+23. ,Problems at work or study place,4,0.38985139412684877,ProblemsAtWorkOrStudyPlace,FaQ01,FF283,AdLifEv,Father,Q01,AdLifEv01,FF,0.39
+24. ,Financial problems,2,0.3653456854610724,FinancialProblems,FaQ01,FF284,AdLifEv,Father,Q01,AdLifEv02,FF,0.365
+25. ,Got divorced separated or ended a relationship,1,0.5212719336734778,GotDivorcedSeparatedOrEndedARelationship,FaQ01,FF285,AdLifEv,Father,Q01,AdLifEv03,FF,0.521
+26. ,Problems or conflicts with your family friends or neighbors,2,0.7242970530304776,ProblemsOrConflictsWithYourFamilyFriendsOrNeighbors,FaQ01,FF286,AdLifEv,Father,Q01,AdLifEv04,FF,0.724
+27. ,Lost someone close to you,2,0.5431180054434178,LostSomeoneCloseToYou,FaQ01,FF288,AdLifEv,Father,Q01,AdLifEv05,FF,0.543
+28. ,My partner and i have problems in our relationship,1,0.7893368917160254,MyPartnerAndIHaveProblemsInOurRelationship,FaQ01,FF292,RS,Father,Q01,RS01,FF,0.789
+29. ,I am very happy with our relationship,1,0.780810480814363,IAmVeryHappyWithOurRelationship,FaQ01,FF293,RS,Father,Q01,RS02,FF,0.781
+30. ,My partner is generally understanding,1,0.7270452941747735,MyPartnerIsGenerallyUnderstanding,FaQ01,FF294,RS,Father,Q01,RS03,FF,0.727
+31. ,I am satisfied with my relationship with my partner,1,0.8848209498179361,IAmSatisfiedWithMyRelationshipWithMyPartner,FaQ01,FF295,RS,Father,Q01,RS04,FF,0.885
+32. ,We agree on how our child should be raised,4,0.4576144175744065,WeAgreeOnHowOurChildShouldBeRaised,FaQ01,FF296,RS,Father,Q01,RS05,FF,0.458
+33. ,Am the life of the party,4,0.3508315087845448,AmTheLifeOfTheParty,FaQ01,FF480,IPIP,Father,Q01,IPIP01,FF,0.351
+34. ,Feel little concern for others,0,0.6197440484363961,FeelLittleConcernForOthers,FaQ01,FF481,IPIP,Father,Q01,IPIP02,FF,0.62
+35. ,Am always prepared,4,0.40478342754008806,AmAlwaysPrepared,FaQ01,FF482,IPIP,Father,Q01,IPIP03,FF,0.405
+36. ,Get stressed out easily,0,0.5587519395777838,GetStressedOutEasily,FaQ01,FF483,IPIP,Father,Q01,IPIP04,FF,0.559
+37. ,Have a rich vocabulary,4,0.4858690272748794,HaveARichVocabulary,FaQ01,FF484,IPIP,Father,Q01,IPIP05,FF,0.486
+38. ,Dont talk a lot,4,0.4716666586653823,DontTalkALot,FaQ01,FF485,IPIP,Father,Q01,IPIP06,FF,0.472
+39. ,Am interested in other people,4,0.461710836807964,AmInterestedInOtherPeople,FaQ01,FF486,IPIP,Father,Q01,IPIP07,FF,0.462
+40. ,Leave my belongs around,4,0.487676424803294,LeaveMyBelongsAround,FaQ01,FF487,IPIP,Father,Q01,IPIP08,FF,0.488
+41. ,Am relaxed most of the time,3,0.5418838758063502,AmRelaxedMostOfTheTime,FaQ01,FF488,IPIP,Father,Q01,IPIP09,FF,0.542
+42. ,Have difficulty understanding abstract ideas,4,0.4499505613279317,HaveDifficultyUnderstandingAbstractIdeas,FaQ01,FF489,IPIP,Father,Q01,IPIP10,FF,0.45
+43. ,Feel comfortable around people,0,0.521709555862237,FeelComfortableAroundPeople,FaQ01,FF490,IPIP,Father,Q01,IPIP11,FF,0.522
+44. ,Insult people,0,0.5246162886546973,InsultPeople,FaQ01,FF491,IPIP,Father,Q01,IPIP12,FF,0.525
+45. ,Pay attention to details,4,0.6338901854390144,PayAttentionToDetails,FaQ01,FF492,IPIP,Father,Q01,IPIP13,FF,0.634
+46. ,Worry about things,0,0.680305624942278,WorryAboutThings,FaQ01,FF493,IPIP,Father,Q01,IPIP14,FF,0.68
+47. ,Have a vivid imagination,4,0.5330056379023936,HaveAVividImagination,FaQ01,FF494,IPIP,Father,Q01,IPIP15,FF,0.533
+48. ,Keep in the background,4,0.5072329782101418,KeepInTheBackground,FaQ01,FF495,IPIP,Father,Q01,IPIP16,FF,0.507
+49. ,Sympathize with others feelings,0,0.5712333428634219,SympathizeWithOthersFeelings,FaQ01,FF496,IPIP,Father,Q01,IPIP17,FF,0.571
+50. ,Make a mess of things,4,0.5498196650634701,MakeAMessOfThings,FaQ01,FF497,IPIP,Father,Q01,IPIP18,FF,0.55
+51. ,Seldom feel blue,0,0.46116440479957577,SeldomFeelBlue,FaQ01,FF498,IPIP,Father,Q01,IPIP19,FF,0.461
+52. ,Am not interested in abstract ideas,4,0.39184356373527046,AmNotInterestedInAbstractIdeas,FaQ01,FF499,IPIP,Father,Q01,IPIP20,FF,0.392
+53. ,Start conversations,4,0.5339623063595164,StartConversations,FaQ01,FF500,IPIP,Father,Q01,IPIP21,FF,0.534
+54. ,Am not interested in other peoples problems,4,0.5405060087390706,AmNotInterestedInOtherPeoplesProblems,FaQ01,FF501,IPIP,Father,Q01,IPIP22,FF,0.541
+55. ,Get chores done right away,4,0.3555069498941264,GetChoresDoneRightAway,FaQ01,FF502,IPIP,Father,Q01,IPIP23,FF,0.356
+56. ,Am easily disturbed,0,0.6653218265907327,AmEasilyDisturbed,FaQ01,FF503,IPIP,Father,Q01,IPIP24,FF,0.665
+57. ,Have excellent ideas,4,0.5152908260974912,HaveExcellentIdeas,FaQ01,FF504,IPIP,Father,Q01,IPIP25,FF,0.515
+58. ,Have little to say,4,0.516072326488093,HaveLittleToSay,FaQ01,FF505,IPIP,Father,Q01,IPIP26,FF,0.516
+59. ,Have a soft heart,0,0.44485321954668094,HaveASoftHeart,FaQ01,FF506,IPIP,Father,Q01,IPIP27,FF,0.445
+60. ,Often forget to put things back in their proper place,4,0.5321045403463772,OftenForgetToPutThingsBackInTheirProperPlace,FaQ01,FF507,IPIP,Father,Q01,IPIP28,FF,0.532
+61. ,Get upset easily,0,0.7314218533758554,GetUpsetEasily,FaQ01,FF508,IPIP,Father,Q01,IPIP29,FF,0.731
+62. ,Do not have good imagination,4,0.5949458789767805,DoNotHaveGoodImagination,FaQ01,FF509,IPIP,Father,Q01,IPIP30,FF,0.595
+63. ,Talk to a lot of different people at parties,4,0.44259404299705557,TalkToALotOfDifferentPeopleAtParties,FaQ01,FF510,IPIP,Father,Q01,IPIP31,FF,0.443
+64. ,Am not really interested in others,4,0.42994931911063655,AmNotReallyInterestedInOthers,FaQ01,FF511,IPIP,Father,Q01,IPIP32,FF,0.43
+65. ,Like order,4,0.45508734277466134,LikeOrder,FaQ01,FF512,IPIP,Father,Q01,IPIP33,FF,0.455
+66. ,Change my mood a lot,0,0.4987664657264735,ChangeMyMoodALot,FaQ01,FF513,IPIP,Father,Q01,IPIP34,FF,0.499
+67. ,Am quick to understand things,4,0.6167351319431738,AmQuickToUnderstandThings,FaQ01,FF514,IPIP,Father,Q01,IPIP35,FF,0.617
+68. ,Do not like to draw attention to myself,4,0.5236347593714049,DoNotLikeToDrawAttentionToMyself,FaQ01,FF515,IPIP,Father,Q01,IPIP36,FF,0.524
+69. ,Take time out for others,4,0.5299014628379285,TakeTimeOutForOthers,FaQ01,FF516,IPIP,Father,Q01,IPIP37,FF,0.53
+70. ,Shirk my duties,4,0.5620893580314451,ShirkMyDuties,FaQ01,FF517,IPIP,Father,Q01,IPIP38,FF,0.562
+71. ,Have frequent mood swings,0,0.6271469218851207,HaveFrequentMoodSwings,FaQ01,FF518,IPIP,Father,Q01,IPIP39,FF,0.627
+72. ,Use difficult words,4,0.4985070709234266,UseDifficultWords,FaQ01,FF519,IPIP,Father,Q01,IPIP40,FF,0.499
+73. ,Dont mind being the centre of attention,4,0.577897749806441,DontMindBeingTheCentreOfAttention,FaQ01,FF520,IPIP,Father,Q01,IPIP41,FF,0.578
+74. ,Feel others emotions,0,0.7275768629560869,FeelOthersEmotions,FaQ01,FF521,IPIP,Father,Q01,IPIP42,FF,0.728
+75. ,Follow a schedule,4,0.3389614584438254,FollowASchedule,FaQ01,FF522,IPIP,Father,Q01,IPIP43,FF,0.339
+76. ,Get irritated easily,0,0.6607789928024326,GetIrritatedEasily,FaQ01,FF523,IPIP,Father,Q01,IPIP44,FF,0.661
+77. ,Spend time reflecting on things,4,0.5194272183736627,SpendTimeReflectingOnThings,FaQ01,FF524,IPIP,Father,Q01,IPIP45,FF,0.519
+78. ,Am quiet around strangers,4,0.4447517205694765,AmQuietAroundStrangers,FaQ01,FF525,IPIP,Father,Q01,IPIP46,FF,0.445
+79. ,Make people feel at ease,3,0.5131729749813222,MakePeopleFeelAtEase,FaQ01,FF526,IPIP,Father,Q01,IPIP47,FF,0.513
+80. ,Am exacting in my work,4,0.3975069188109321,AmExactingInMyWork,FaQ01,FF527,IPIP,Father,Q01,IPIP48,FF,0.398
+81. ,Often feel blue,0,0.5971009959309617,OftenFeelBlue,FaQ01,FF528,IPIP,Father,Q01,IPIP49,FF,0.597
+82. ,Am full of ideas,4,0.5678115506652223,AmFullOfIdeas,FaQ01,FF529,IPIP,Father,Q01,IPIP50,FF,0.568
+83. ,How often do you have trouble wrapping up the final details of a projectonce the challenging parts have been done,4,0.3812586232500174,HowOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProjectonceTheChallengingPartsHaveBeenDone,FaQ01,FF535,ASRS,Father,Q01,ASRS01,FF,0.381
+84. ,How often do you have difficulty getting things in order when you have to do a task that requires organisation,4,0.5011596929984123,HowOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDoATaskThatRequiresOrganisation,FaQ01,FF536,ASRS,Father,Q01,ASRS02,FF,0.501
+85. ,When you have a task that requires a lot of thought how often do you avoid or delay getting started,4,0.4983552985331838,WhenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoidOrDelayGettingStarted,FaQ01,FF537,ASRS,Father,Q01,ASRS03,FF,0.498
+86. ,How often do you have problems remembering appointments or obligations,2,0.475200622004313,HowOftenDoYouHaveProblemsRememberingAppointmentsOrObligations,FaQ01,FF538,ASRS,Father,Q01,ASRS04,FF,0.475
+87. ,How often do you fidget or squirm with your hands or feet when you have to sit down for a long time,2,0.4060048838362498,HowOftenDoYouFidgetOrSquirmWithYourHandsOrFeetWhenYouHaveToSitDownForALongTime,FaQ01,FF539,ASRS,Father,Q01,ASRS05,FF,0.406
+88. ,How often do you feel overly active and compelled to do things like you were driven by a motor,0,0.4778881994180078,HowOftenDoYouFeelOverlyActiveAndCompelledToDoThingsLikeYouWereDrivenByAMotor,FaQ01,FF540,ASRS,Father,Q01,ASRS06,FF,0.478
+89. ,Serious concerns that something is wrong with the bay you are expecting,2,0.37720931368606025,SeriousConcernsThatSomethingIsWrongWithTheBayYouAreExpecting,FaQ01,FF544,AdLifEv,Father,Q01,AdLifEv07,FF,0.377
+90. ,Serious personal ill or injured,2,0.5958751598940852,SeriousPersonalIllOrInjured,FaQ01,FF545,AdLifEv,Father,Q01,AdLifEv08,FF,0.596
+91. ,Close relative has been seriously ill or injured,2,0.5062315019798005,CloseRelativeHasBeenSeriouslyIllOrInjured,FaQ01,FF546,AdLifEv,Father,Q01,AdLifEv09,FF,0.506
+92. ,Involved in a serious traffic accident fire or robbery,2,0.44988603494766816,InvolvedInASeriousTrafficAccidentFireOrRobbery,FaQ01,FF547,AdLifEv,Father,Q01,AdLifEv10,FF,0.45
+93. ,Forced into sexual activity,4,0.26828145976037315,ForcedIntoSexualActivity,FaQ01,FF548,AdLifEv,Father,Q01,AdLifEv11,FF,0.268
+94. ,Exposed to physical violence,2,0.41508041656761857,ExposedToPhysicalViolence,FaQ01,FF549,AdLifEv,Father,Q01,AdLifEv12,FF,0.415
+95. ,Other,4,0.520516987402457,Other,FaQ01,FF289,AdLifEv,Father,Q01,AdLifEv13,FF,0.521
