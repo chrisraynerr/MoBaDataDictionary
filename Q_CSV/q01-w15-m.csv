@@ -1,0 +1,978 @@
+Q1,Q2,CODES,OPT,R,TYPE,C1,Q
+During the last year before you became pregnant did you lose your period for more than three months?,Only in version A,AA1687,,Number;1==No;2==Yes;3==Yes for other reasons,Categorical,AA1687,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Only in version A,AA1687,,Number;1==No;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA1687,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Only in version A,AA1687,,Number;1==No Yes fy;2==Yes;3==Yes for other reasons,Categorical,AA1687,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Only in version A,AA1687,,Number;1==No Yes fy;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA1687,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Day,AA20,0 to 99,Number;1==No;2==Yes;3==Yes for other reasons,Categorical,AA20,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Day,AA20,0 to 99,Number;1==No;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA20,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Day,AA20,0 to 99,Number;1==No Yes fy;2==Yes;3==Yes for other reasons,Categorical,AA20,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Day,AA20,0 to 99,Number;1==No Yes fy;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA20,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Month,AA21,0 to 99,Number;1==No;2==Yes;3==Yes for other reasons,Categorical,AA21,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Month,AA21,0 to 99,Number;1==No;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA21,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Month,AA21,0 to 99,Number;1==No Yes fy;2==Yes;3==Yes for other reasons,Categorical,AA21,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Month,AA21,0 to 99,Number;1==No Yes fy;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA21,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Year,AA22,0 to 9999,Number;1==No;2==Yes;3==Yes for other reasons,Categorical,AA22,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Year,AA22,0 to 9999,Number;1==No;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA22,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Year,AA22,0 to 9999,Number;1==No Yes fy;2==Yes;3==Yes for other reasons,Categorical,AA22,q01-w15-m
+During the last year before you became pregnant did you lose your period for more than three months?,Year,AA22,0 to 9999,Number;1==No Yes fy;2==Yes due to an earlier pregnancy;3==Yes for other reasons,Categorical,AA22,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==No;2==Uncertain;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==No;2==More than usual;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==Certain;2==Uncertain;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==Certain;2==More than usual;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==As usual;2==Uncertain;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Duration,AA25,,1==As usual;2==More than usual;3==Less than usual,Categorical,AA25,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==No;2==Uncertain;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==No;2==More than usual;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==Certain;2==Uncertain;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==Certain;2==More than usual;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==As usual;2==Uncertain;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Amount of bleeding,AA26,,1==As usual;2==More than usual;3==Less than usual,Categorical,AA26,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==No;2==Uncertain;3==Less than usual,Categorical,AA27,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==No;2==More than usual;3==Less than usual,Categorical,AA27,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==Certain;2==Uncertain;3==Less than usual,Categorical,AA27,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==Certain;2==More than usual;3==Less than usual,Categorical,AA27,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==As usual;2==Uncertain;3==Less than usual,Categorical,AA27,q01-w15-m
+Did your last menstrual period come at the expected time?,Menstrual pains,AA27,,1==As usual;2==More than usual;3==Less than usual,Categorical,AA27,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Condom,AA28,,,Tick,AA28,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Diaphragm,AA29,,,Tick,AA29,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,IUD,AA30,,,Tick,AA30,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Hormone IUD,AA31,,,Tick,AA31,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Hormone injection,AA32,,,Tick,AA32,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Mini pill,AA33,,,Tick,AA33,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Pill,AA34,,,Tick,AA34,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Spermicides,AA35,,,Tick,AA35,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Safe period,AA36,,,Tick,AA36,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Withdrawal,AA37,,,Tick,AA37,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,No such methods,AA38,,,Tick,AA38,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Other,AA39,,,Tick,AA39,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,AA40,AA40; AA40; AA40,,,Tick,AA40,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,Other specify,,,,Tick,,q01-w15-m
+Have you or your partner at any time during the last year used the following methods to avoid becoming pregnant?,AA1584,AA1584; AA1584; AA1584,,,Tick,AA1584,q01-w15-m
+If you have used the pill or mini-pill how long have you used them?,Pill,AA41,,1==Less than one year;2==1 to 3 years;3==4 to 6 years;4==7 to 9 years;5==10 years or more,Categorical,AA41,q01-w15-m
+If you have used the pill or mini-pill how long have you used them?,Mini-pill,AA42,,1==Less than one year;2==1 to 3 years;3==4 to 6 years;4==7 to 9 years;5==10 years or more,Categorical,AA42,q01-w15-m
+Were you taking the pill or mini-pill during the last 4 months before this pregnancy?,AA44,AA44; AA44; AA44,,1==No;2==Yes,Categorical,AA44,q01-w15-m
+If yes how long before your last menstrual period did you stop taking the pill or mini-pill?,weeks,AA45,,Number 0 - 99,Numeric,AA45,q01-w15-m
+Was this pregnancy planned?,AA46,AA46; AA46; AA46,,1==No;2==Yes,Categorical,AA46,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In version B C E,,,Number of months if more than 3;1==Less than 1 month;2==1 to 2 months;3==3 months or more,Categorical,,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In version B C E,,,Number of months if more than 3;1==Less than 1 month;2==2 to 3 months;3==3 months or more,Categorical,,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In version B C E,,,Number of months if more than 3;1==Less than 2 months;2==1 to 2 months;3==3 months or more,Categorical,,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In version B C E,,,Number of months if more than 3;1==Less than 2 months;2==2 to 3 months;3==3 months or more,Categorical,,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In all versions,AA48,,Number of months if more than 3;1==Less than 1 month;2==1 to 2 months;3==3 months or more,Categorical,AA48,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In all versions,AA48,,Number of months if more than 3;1==Less than 1 month;2==2 to 3 months;3==3 months or more,Categorical,AA48,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In all versions,AA48,,Number of months if more than 3;1==Less than 2 months;2==1 to 2 months;3==3 months or more,Categorical,AA48,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,In all versions,AA48,,Number of months if more than 3;1==Less than 2 months;2==2 to 3 months;3==3 months or more,Categorical,AA48,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,Only in version A,AA1687,,Number of months if more than 3;1==Less than 1 month;2==1 to 2 months;3==3 months or more,Categorical,AA1687,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,Only in version A,AA1687,,Number of months if more than 3;1==Less than 1 month;2==2 to 3 months;3==3 months or more,Categorical,AA1687,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,Only in version A,AA1687,,Number of months if more than 3;1==Less than 2 months;2==1 to 2 months;3==3 months or more,Categorical,AA1687,q01-w15-m
+If yes how many months did you have regular intercourse without contraception before you became pregnant?,Only in version A,AA1687,,Number of months if more than 3;1==Less than 2 months;2==2 to 3 months;3==3 months or more,Categorical,AA1687,q01-w15-m
+If yes which type?,Condom,AA50,,,Tick,AA50,q01-w15-m
+If yes which type?,Diaphragm,AA51,,,Tick,AA51,q01-w15-m
+If yes which type?,IUD,AA52,,,Tick,AA52,q01-w15-m
+If yes which type?,Hormone IUD,AA53,,,Tick,AA53,q01-w15-m
+If yes which type?,Hormone injection,AA54,,,Tick,AA54,q01-w15-m
+If yes which type?,Mini pill,AA55,,,Tick,AA55,q01-w15-m
+If yes which type?,Pill,AA56,,,Tick,AA56,q01-w15-m
+If yes which type?,Spermicides,AA57,,,Tick,AA57,q01-w15-m
+If yes which type?,Safe period,AA58,,,Tick,AA58,q01-w15-m
+If yes which type?,Withdrawal,AA59,,,Tick,AA59,q01-w15-m
+If yes which type?,Other,AA60,,,Tick,AA60,q01-w15-m
+If yes which type?,AA61,AA61; AA61; AA61,,,Tick,AA61,q01-w15-m
+If yes which type?,Other specify,,,,Tick,,q01-w15-m
+If yes which type?,AA1585,AA1585; AA1585; AA1585,,,Tick,AA1585,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,AA93,AA93; AA93; AA93,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA93,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Year pregnancy started,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,AA148,AA148; AA148; AA148,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA148,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Outcome of pregnancy,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,pregnancy,,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,Week of pregnancy for abortion or still birth,AA120,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA120,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA150,AA150; AA150; AA150,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA150,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,AA151,AA151; AA151; AA151,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA151,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,Weight gain during pregnancy,AA122,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA122,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,AA152,AA152; AA152; AA152,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA152,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 9999;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 9999;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 9999;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 9999;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number of months breast feeding Number 0 – 99;1==No;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number of months breast feeding Number 0 – 99;1==No;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Yes;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you been pregnant before?,Smoked during pregnancy,AA123,,Number of months breast feeding Number 0 – 99;1==Live infant born;2==Spontaneous abortion;3==Termination of;4==Ectopic pregnancy,Categorical,AA123,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Pelvic relaxation requiring medical leave,AA154,,1==No;2==Yes,Categorical,AA154,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Pelvic relaxation requiring bed rest,AA155,,1==No;2==Yes,Categorical,AA155,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Serious nausea and vomiting,AA156,,1==No;2==Yes,Categorical,AA156,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Eclampsia during pregnancy,AA157,,1==No;2==Yes,Categorical,AA157,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Diabetes during pregnancy,AA158,,1==No;2==Yes,Categorical,AA158,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Sugar in urine,AA159,,1==No;2==Yes,Categorical,AA159,q01-w15-m
+Have you had any of the following problems during previous pregnancies?,Problems with incontinence,AA160,,1==No;2==Yes,Categorical,AA160,q01-w15-m
+If you had pelvic relaxation in a previous pregnancy that led to bed rest or medical leave when did the pain start?,months after start of pregnancy,AA161,,Number 0 - 99,Numeric,AA161,q01-w15-m
+When did the pain stop?,months after pregnancy,AA162,,Number 0 - 99,Numeric,AA162,q01-w15-m
+When did the pain stop?,Still have pain,AA163,,Number 0 - 99,Numeric,AA163,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,bleeding lasted and how much you bled.,,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,First Last,,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Day,AA165; AA170;,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA165,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,month,AA166; AA171;,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA166,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Year,AA167; AA172;,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA167,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,Amount,AA169; AA174;,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA169,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 9999;1==No;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 9999;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 9999;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number 0 – 9999;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number of days variation Number 0 – 99;1==No;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number of days variation Number 0 – 99;1==No;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number of days variation Number 0 – 99;1==Trace of blood;2==Yes;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you had bleeding from the vagina once or more during this pregnancy?,number of times,AA175,,Number of days variation Number 0 – 99;1==Trace of blood;2==More than just a trace;3==Coagulated blood,Categorical,AA175,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,medicines and how many days you took them.,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Illness or health problem,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,In week of pregnancy,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,0 to 4,,0 to 4; 5 to 8; 9 to 12; 0 to 4; 5 to 8; 9 to 12;,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Pelvic relaxation,AA176; AA177; AA178; AA179; AA180; AA181; AA182; AA183; AA184; AA185;,0 to 4,months Number of,Numeric,AA176,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Abdominal pain,AA186; AA187; AA188; AA189; AA190; AA191; AA192; AA193; AA194; AA195;,0 to 4,months Number of,Numeric,AA186,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Back pain,AA196; AA197; AA198; AA199; AA200; AA201; AA202; AA203; AA204; AA205;,0 to 4,months Number of,Numeric,AA196,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Neck and shoulder,AA206; AA207; AA208; AA209; AA210; AA211; AA212; AA213; AA214; AA215;,0 to 4,months Number of,Numeric,AA206,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,pain,AA1589,0 to 4,months Number of,Numeric,AA1589,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Nausea,AA216; AA217; AA218; AA219; AA220; AA221; AA222; AA223; AA224; AA225;,0 to 4,months Number of,Numeric,AA216,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Nausea with,AA226; AA227; AA228; AA229; AA230; AA231; AA232; AA233; AA234; AA235;,0 to 4,months Number of,Numeric,AA226,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,vomiting,AA1591,0 to 4,months Number of,Numeric,AA1591,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Vaginal thrush,AA236; AA237; AA238; AA239; AA240; AA241; AA242; AA243; AA244; AA245;,0 to 4,months Number of,Numeric,AA236,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Vaginal,AA246; AA247; AA248; AA249; AA250; AA251; AA252; AA253; AA254; AA255;,0 to 4,months Number of,Numeric,AA246,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,catarrh or unusual,AA1593,0 to 4,months Number of,Numeric,AA1593,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,discharge,AA1593,0 to 4,months Number of,Numeric,AA1593,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Pregnancy itchy,AA256; AA257; AA258; AA259; AA260; AA261; AA262; AA263; AA264; AA265;,0 to 4,months Number of,Numeric,AA256,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Constipation,AA266; AA267; AA268; AA269; AA270; AA271; AA272; AA273; AA274; AA275;,0 to 4,months Number of,Numeric,AA266,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Diarrhoea or gastric,AA276; AA277; AA278; AA279; AA280; AA281; AA282; AA283; AA284; AA285;,0 to 4,months Number of,Numeric,AA276,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,flu,AA1596,0 to 4,months Number of,Numeric,AA1596,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Unusual,AA286; AA287; AA288; AA289; AA290; AA291; AA292; AA293; AA294; AA295;,0 to 4,months Number of,Numeric,AA286,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,tiredness or sleepiness,AA1597,0 to 4,months Number of,Numeric,AA1597,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Sleeping problems,AA296; AA297; AA298; AA299; AA300; AA301; AA302; AA303; AA304; AA305;,0 to 4,months Number of,Numeric,AA296,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Heartburn or reflux,AA306; AA307; AA308; AA309; AA310; AA311; AA312; AA313; AA314; AA315;,0 to 4,months Number of,Numeric,AA306,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Oedema,AA316; AA317; AA318; AA319; AA320; AA321; AA322; AA323; AA324; AA325;,0 to 4,months Number of,Numeric,AA316,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Fever with rash,AA326; AA327; AA328; AA329; AA330; AA331; AA332; AA333; AA334; AA335;,0 to 4,months Number of,Numeric,AA326,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,o,,0 to 4,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Fever over,AA336; AA337; AA338; AA339; AA340; AA341; AA342; AA343; AA344; AA345;,0 to 4,months Number of,Numeric,AA336,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Common cold,AA346; AA347; AA348; AA349; AA350; AA351; AA352; AA353; AA354; AA355;,0 to 4,months Number of,Numeric,AA346,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Throat infection,AA356; AA357; AA358; AA359; AA360; AA361; AA362; AA363; AA364; AA365;,0 to 4,months Number of,Numeric,AA356,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,medicines and how many days you took them.,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Week with illness or health problem,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Week of pregnancy,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,0 to 4,,0 to 4; 5 to 8; 9 to 12; 0 to 4; 5 to 8; 9 to 12;,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Sinusitis or ear,AA366; AA367; AA368; AA369; AA370; AA371; AA372; AA373; AA374; AA375;,0 to 4,months Number of,Numeric,AA366,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,infection,AA1605,0 to 4,months Number of,Numeric,AA1605,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Influenza,AA376; AA377; AA378; AA379; AA380; AA381; AA382; AA383; AA384; AA385;,0 to 4,months Number of,Numeric,AA376,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Pneumonia or,AA386; AA387; AA388; AA389; AA390; AA391; AA392; AA393; AA394; AA395;,0 to 4,months Number of,Numeric,AA386,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,bronchitis,AA1607,0 to 4,months Number of,Numeric,AA1607,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Sugar in urine,AA396; AA397; AA398; AA399; AA400; AA401; AA402; AA403; AA404; AA405;,0 to 4,months Number of,Numeric,AA396,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Protein in urine,AA406; AA407; AA408; AA409; AA410; AA411; AA412; AA413; AA414; AA415;,0 to 4,months Number of,Numeric,AA406,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Use of medication during this pregnancy,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Name of,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,medicine,,0 to 4; 5 to 8; 9 to 12;,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,pregnancy,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA421,AA421; AA421; AA422; AA423; AA424; AA425; AA426; AA421,,months Number of,Numeric,AA421,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA430,AA430; AA430; AA431; AA432; AA433; AA434; AA435; AA436; AA430,,months Number of,Numeric,AA430,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1611,AA1611; AA1611; AA1611,,months Number of,Numeric,AA1611,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1611,AA1611; AA1611; AA1611,,months Number of,Numeric,AA1611,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA439,AA439; AA439; AA440; AA441; AA442; AA443; AA444; AA445; AA439,,months Number of,Numeric,AA439,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1612,AA1612; AA1612; AA1612,,months Number of,Numeric,AA1612,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1612,AA1612; AA1612; AA1612,,months Number of,Numeric,AA1612,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA448,AA448; AA448; AA449; AA450; AA451; AA452; AA453; AA454; AA448,,months Number of,Numeric,AA448,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1613,AA1613; AA1613; AA1613,,months Number of,Numeric,AA1613,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1613,AA1613; AA1613; AA1613,,months Number of,Numeric,AA1613,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA457,AA457; AA457; AA458; AA459; AA460; AA461; AA462; AA463; AA457,,months Number of,Numeric,AA457,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1614,AA1614; AA1614; AA1614,,months Number of,Numeric,AA1614,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1614,AA1614; AA1614; AA1614,,months Number of,Numeric,AA1614,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA466,AA466; AA466; AA467; AA468; AA469; AA470; AA471; AA472; AA466,,months Number of,Numeric,AA466,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1615,AA1615; AA1615; AA1615,,months Number of,Numeric,AA1615,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1615,AA1615; AA1615; AA1615,,months Number of,Numeric,AA1615,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA475,AA475; AA475; AA476; AA477; AA478; AA479; AA480; AA481; AA475,,months Number of,Numeric,AA475,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1616,AA1616; AA1616; AA1616,,months Number of,Numeric,AA1616,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1616,AA1616; AA1616; AA1616,,months Number of,Numeric,AA1616,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA484,AA484; AA484; AA485; AA486; AA487; AA488; AA489; AA490; AA484,,months Number of,Numeric,AA484,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1617,AA1617; AA1617; AA1617,,months Number of,Numeric,AA1617,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1617,AA1617; AA1617; AA1617,,months Number of,Numeric,AA1617,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA493,AA493; AA493; AA494; AA495; AA496; AA497; AA498; AA499; AA493,,months Number of,Numeric,AA493,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1618,AA1618; AA1618; AA1618,,months Number of,Numeric,AA1618,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1618,AA1618; AA1618; AA1618,,months Number of,Numeric,AA1618,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA502,AA502; AA502; AA503; AA504; AA505; AA506; AA507; AA508; AA502,,months Number of,Numeric,AA502,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1619,AA1619; AA1619; AA1619,,months Number of,Numeric,AA1619,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1619,AA1619; AA1619; AA1619,,months Number of,Numeric,AA1619,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA511,AA511; AA511; AA512; AA513; AA514; AA515; AA516; AA517; AA511,,months Number of,Numeric,AA511,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1620,AA1620; AA1620; AA1620,,months Number of,Numeric,AA1620,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1620,AA1620; AA1620; AA1620,,months Number of,Numeric,AA1620,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA520,AA520; AA520; AA521; AA522; AA523; AA524; AA525; AA526; AA520,,months Number of,Numeric,AA520,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1621,AA1621; AA1621; AA1621,,months Number of,Numeric,AA1621,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1621,AA1621; AA1621; AA1621,,months Number of,Numeric,AA1621,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA529,AA529; AA529; AA530; AA531; AA532; AA533; AA534; AA535; AA529,,months Number of,Numeric,AA529,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1622,AA1622; AA1622; AA1622,,months Number of,Numeric,AA1622,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1622,AA1622; AA1622; AA1622,,months Number of,Numeric,AA1622,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA538,AA538; AA538; AA539; AA540; AA541; AA542; AA543; AA544; AA538,,months Number of,Numeric,AA538,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1623,AA1623; AA1623; AA1623,,months Number of,Numeric,AA1623,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1623,AA1623; AA1623; AA1623,,months Number of,Numeric,AA1623,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA547,AA547; AA547; AA548; AA549; AA550; AA551; AA552; AA553; AA547,,months Number of,Numeric,AA547,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1624,AA1624; AA1624; AA1624,,months Number of,Numeric,AA1624,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1624,AA1624; AA1624; AA1624,,months Number of,Numeric,AA1624,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA556,AA556; AA556; AA557; AA558; AA559; AA560; AA561; AA562; AA556,,months Number of,Numeric,AA556,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1625,AA1625; AA1625; AA1625,,months Number of,Numeric,AA1625,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1625,AA1625; AA1625; AA1625,,months Number of,Numeric,AA1625,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA565,AA565; AA565; AA566; AA567; AA568; AA559; AA570; AA571; AA565,,months Number of,Numeric,AA565,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1626,AA1626; AA1626; AA1626,,months Number of,Numeric,AA1626,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1626,AA1626; AA1626; AA1626,,months Number of,Numeric,AA1626,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,Name of,,,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,medicine,,0 to 4; 5 to 8; 9 to 12;,months Number of,Numeric,,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA574,AA574; AA574; AA575; AA576; AA577; AA578; AA579; AA580; AA574,,months Number of,Numeric,AA574,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1627,AA1627; AA1627; AA1627,,months Number of,Numeric,AA1627,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1627,AA1627; AA1627; AA1627,,months Number of,Numeric,AA1627,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA583,AA583; AA583; AA584; AA585; AA586; AA587; AA588; AA589; AA583,,months Number of,Numeric,AA583,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1628,AA1628; AA1628; AA1628,,months Number of,Numeric,AA1628,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1628,AA1628; AA1628; AA1628,,months Number of,Numeric,AA1628,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA592,AA592; AA592; AA593; AA594; AA595; AA596; AA597; AA598; AA592,,months Number of,Numeric,AA592,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1629,AA1629; AA1629; AA1629,,months Number of,Numeric,AA1629,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1629,AA1629; AA1629; AA1629,,months Number of,Numeric,AA1629,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA601,AA601; AA601; AA602; AA603; AA604; AA605; AA606; AA607; AA601,,months Number of,Numeric,AA601,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1630,AA1630; AA1630; AA1630,,months Number of,Numeric,AA1630,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1630,AA1630; AA1630; AA1630,,months Number of,Numeric,AA1630,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA610,AA610; AA610; AA611; AA612; AA613; AA614; AA615; AA616; AA610,,months Number of,Numeric,AA610,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1631,AA1631; AA1631; AA1631,,months Number of,Numeric,AA1631,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1631,AA1631; AA1631; AA1631,,months Number of,Numeric,AA1631,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA619,AA619; AA619; AA620; AA621; AA622; AA623; AA624; AA625; AA619,,months Number of,Numeric,AA619,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1632,AA1632; AA1632; AA1632,,months Number of,Numeric,AA1632,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1632,AA1632; AA1632; AA1632,,months Number of,Numeric,AA1632,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA628,AA628; AA628; AA629; AA630; AA631; AA632; AA633; AA634; AA628,,months Number of,Numeric,AA628,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1633,AA1633; AA1633; AA1633,,months Number of,Numeric,AA1633,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1633,AA1633; AA1633; AA1633,,months Number of,Numeric,AA1633,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA637,AA637; AA637; AA638; AA639; AA640; AA641; AA642; AA643; AA637,,months Number of,Numeric,AA637,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1634,AA1634; AA1634; AA1634,,months Number of,Numeric,AA1634,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1634,AA1634; AA1634; AA1634,,months Number of,Numeric,AA1634,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA646,AA646; AA646; AA647; AA648; AA649; AA650; AA651; AA652; AA646,,months Number of,Numeric,AA646,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1635,AA1635; AA1635; AA1635,,months Number of,Numeric,AA1635,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1635,AA1635; AA1635; AA1635,,months Number of,Numeric,AA1635,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA655,AA655; AA655; AA656; AA657; AA658; AA659; AA660; AA661; AA655,,months Number of,Numeric,AA655,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1636,AA1636; AA1636; AA1636,,months Number of,Numeric,AA1636,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1636,AA1636; AA1636; AA1636,,months Number of,Numeric,AA1636,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA664,AA664; AA664; AA665; AA666; AA667; AA668; AA669; AA670; AA664,,months Number of,Numeric,AA664,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1637,AA1637; AA1637; AA1637,,months Number of,Numeric,AA1637,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1637,AA1637; AA1637; AA1637,,months Number of,Numeric,AA1637,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA673,AA673; AA673; AA674; AA675; AA676; AA677; AA678; AA679; AA673,,months Number of,Numeric,AA673,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1638,AA1638; AA1638; AA1638,,months Number of,Numeric,AA1638,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA682,AA682; AA682; AA683; AA684; AA685; AA686; AA687; AA688; AA682,,months Number of,Numeric,AA682,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1639,AA1639; AA1639; AA1639,,months Number of,Numeric,AA1639,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1639,AA1639; AA1639; AA1639,,months Number of,Numeric,AA1639,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA691,AA691; AA691; AA692; AA693; AA694; AA695; AA696; AA697; AA691,,months Number of,Numeric,AA691,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1640,AA1640; AA1640; AA1640,,months Number of,Numeric,AA1640,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1640,AA1640; AA1640; AA1640,,months Number of,Numeric,AA1640,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA700,AA700; AA700; AA701; AA702; AA703; AA704; AA705; AA706; AA700,,months Number of,Numeric,AA700,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1641,AA1641; AA1641; AA1641,,months Number of,Numeric,AA1641,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1641,AA1641; AA1641; AA1641,,months Number of,Numeric,AA1641,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA709,AA709; AA709; AA710; AA711; AA712; AA713; AA714; AA715; AA709,,months Number of,Numeric,AA709,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1642,AA1642; AA1642; AA1642,,months Number of,Numeric,AA1642,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1642,AA1642; AA1642; AA1642,,months Number of,Numeric,AA1642,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA718,AA718; AA718; AA719; AA720; AA721; AA722; AA723; AA724; AA718,,months Number of,Numeric,AA718,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1643,AA1643; AA1643; AA1643,,months Number of,Numeric,AA1643,q01-w15-m
+Have you experienced any of the following illnesses or problems during this pregnancy?,AA1643,AA1643; AA1643; AA1643,,months Number of,Numeric,AA1643,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,in conjunction with the illness or health problem,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,give the name and when you took them.,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Illness or health problem,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Before During,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,p r egnancy pregnancy,,0 to 4; 5 to 8; 9 to 12;,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Cervical cell,AA725; AA726; AA727; AA728; AA729; AA730; AA731; AA732; AA733;,,,Tick,AA725,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,changes,AA1644,,,Tick,AA1644,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,AA734,AA734; AA734; AA735; AA736; AA737; AA738; AA739; AA740; AA741; AA742; AA734,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Herpes,AA734,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Venereal warts or,AA734; AA743; AA744; AA745; AA746; AA747; AA748; AA749; AA750; AA751;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,condyloma,AA734; AA1646;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Gonorrhea,AA734; AA752; AA753; AA754; AA755; AA756; AA757; AA758; AA759; AA760;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Chlamydia,AA734; AA761; AA762; AA763; AA764; AA765; AA766; AA767; AA768; AA769;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Kidney stones,AA734; AA770; AA771; AA772; AA773; AA774; AA775; AA776; AA777; AA778;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Kidney infection or,AA734; AA779; AA780; AA781; AA782; AA783; AA784; AA785; AA786; AA787;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,pyelonephritis,AA734; AA1650;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Urinary tract,AA734; AA788; AA789; AA790; AA791; AA792; AA793; AA794; AA795; AA796;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,infections,AA734; AA1651;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Incontinence,AA734; AA797; AA798; AA799; AA800; AA801; AA802; AA803; AA804; AA805;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Anorexia or bulimia or,AA734; AA806; AA807; AA808; AA809; AA810; AA811; AA812; AA813; AA814;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,other eating disorders,AA734; AA1653;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Migraine,AA734; AA815; AA816; AA817; AA818; AA819; AA820; AA821; AA822; AA823;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Other headache,AA734; AA824; AA825; AA826; AA827; AA828; AA829; AA830; AA831; AA832;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Epilepsy,AA734; AA833; AA834; AA835; AA836; AA837; AA838; AA839; AA840; AA841;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Multiple sclerosis,AA734; AA842; AA843; AA844; AA845; AA846; AA847; AA848; AA849; AA850;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Cerebral palsy,AA734; AA851; AA852; AA853; AA854; AA855; AA856; AA857; AA858; AA859;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Cancer,AA734; AA860; AA861; AA862; AA863; AA864; AA865; AA866; AA867; AA868;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Depression,AA734; AA869; AA870; AA871; AA872; AA873; AA874; AA875; AA876; AA877;,,,Tick,AA734,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,in conjunction with the illness or health problem,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,give the name and when you took them.,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Illness or health problem,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Before During,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,p r egnancy pregnancy,,0 to 4; 5 to 8; 9 to 12;,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Anxiety,AA878; AA879; AA880; AA881; AA882; AA883; AA884; AA885; AA886;,,,Tick,AA878,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Other long,AA887; AA888; AA889; AA890; AA891; AA892; AA893; AA894; AA895;,,,Tick,AA887,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,illnesses or health,AA1612,,,Tick,AA1612,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,problems,AA1612,,,Tick,AA1612,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,AA896,AA896; AA896; AA896,,,Tick,AA896,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,Other specify,,,,Tick,,q01-w15-m
+Do you have or have you had any of the following illnesses or health problems?,AA1663,AA1663; AA1663; AA1663,,,Tick,AA1663,q01-w15-m
+If yes which?,AA901,AA901; AA901; AA901,,,Tick,AA901,q01-w15-m
+If yes which?,AA1664,AA1664; AA1664; AA1664,,,Tick,AA1664,q01-w15-m
+Do your gums bleed when you brush your teeth at present?,AA902,AA902; AA902; AA902,,1==No rarely or never;2==Yes sometimes;3==Yes often;4==Yes almost always,Categorical,AA902,q01-w15-m
+If you had diabetes before you became pregnant what was your last long-term blood sugar level before you became pregnant?,AA903,AA903; AA903; AA903,,1==Less that;2==;3==More than 12;4==Don’t know,Categorical,AA903,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Medicine 1 Medicine 2,,,Number of days,Numeric,,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Name of,AA904; AA911; AA918; AA925; AA932;,,Number of days,Numeric,AA904,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,medication,AA1665; AA1667;,,Number of days,Numeric,AA1665,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,AA1665,AA1665; AA1665; AA1666; AA1667; AA1668; AA1669; AA1665,,Number of days,Numeric,AA1665,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Last 6 months before pregnancy,AA905; AA912; AA919; AA926; AA933;,,Number of days,Numeric,AA905,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Use of Pregnancy week,AA906; AA913; AA920; AA927; AA934;,0 to 4,Number of days,Numeric,AA906,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,medication Pregnancy week,AA907; AA914; AA921; AA928; AA935;,5 to 8,Number of days,Numeric,AA907,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Pregnancy week,AA908; AA915; AA922; AA929; AA936;,9 to 12,Number of days,Numeric,AA908,q01-w15-m
+Have you used other medication not previously mentioned? If yes which and when did you take them?,Pregnancy week 13+,AA909; AA916; AA923; AA930; AA937;,,Number of days,Numeric,AA909,q01-w15-m
+Do you take vitamins minerals or other dietary supplements?,or bottle.,,,1==No;2==Yes,Categorical,,q01-w15-m
+When did you take the supplements?,Last 6 months before pregnancy During this pregnancy,,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,,q01-w15-m
+When did you take the supplements?,In pregnancy weeks In pregnancy weeks,,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,,q01-w15-m
+When did you take the supplements?,Folic acid,AA940; AA941; AA942; AA943; AA944; AA945; AA946; AA947;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA940,q01-w15-m
+When did you take the supplements?,Vitamin,B1; AA948; AA949; AA950; AA951; AA952; AA953; AA954; AA955;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,B1,q01-w15-m
+When did you take the supplements?,Vitamin,B2; AA956; AA957; AA958; AA959; AA960; AA961; AA962; AA963;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,B2,q01-w15-m
+When did you take the supplements?,Vitamin,B6; AA964; AA965; AA966; AA967; AA968; AA969; AA970; AA971;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,B6,q01-w15-m
+When did you take the supplements?,Vitamin,B12; AA972; AA973; AA974; AA975; AA976; AA977; AA978; AA979;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,B12,q01-w15-m
+When did you take the supplements?,Niacin,AA980; AA981; AA982; AA983; AA984; AA985; AA986; AA987;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA980,q01-w15-m
+When did you take the supplements?,Pantothenic acid,AA988; AA989; AA990; AA991; AA992; AA993; AA994; AA995;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA988,q01-w15-m
+When did you take the supplements?,Biotin,AA996; AA997; AA998; AA999; AA1000; AA1001; AA1002; AA1003;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA996,q01-w15-m
+When did you take the supplements?,Vitamin C,AA1004; AA1005; AA1006; AA1007; AA1008; AA1009; AA1010; AA1011;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1004,q01-w15-m
+When did you take the supplements?,Vitamin A,AA1012; AA1013; AA1014; AA1015; AA1016; AA1017; AA1018; AA1019;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1012,q01-w15-m
+When did you take the supplements?,Vitamin D,AA1020; AA1021; AA1022; AA1023; AA1024; AA1025; AA1026; AA1027;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1020,q01-w15-m
+When did you take the supplements?,Vitamin E,AA1028; AA1029; AA1030; AA1031; AA1032; AA1033; AA1034; AA1035;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1028,q01-w15-m
+When did you take the supplements?,Iron,AA1036; AA1037; AA1038; AA1039; AA1040; AA1041; AA1042; AA1043;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1036,q01-w15-m
+When did you take the supplements?,Calcium,AA1044; AA1045; AA1046; AA1047; AA1048; AA1049; AA1050; AA1051;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1044,q01-w15-m
+When did you take the supplements?,Iodine,AA1052; AA1053; AA1054; AA1055; AA1056; AA1057; AA1058; AA1059;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1052,q01-w15-m
+When did you take the supplements?,Zinc,AA1060; AA1061; AA1062; AA1063; AA1064; AA1065; AA1066; AA1067;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1060,q01-w15-m
+When did you take the supplements?,Selenium,AA1068; AA1069; AA1070; AA1071; AA1072; AA1073; AA1074; AA1075;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1068,q01-w15-m
+When did you take the supplements?,Copper,AA1076; AA1077; AA1078; AA1079; AA1080; AA1081; AA1082; AA1083;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1076,q01-w15-m
+When did you take the supplements?,Chromium,AA1084; AA1085; AA1086; AA1087; AA1088; AA1089; AA1090; AA1091;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1084,q01-w15-m
+When did you take the supplements?,Magnesium,AA1092; AA1093; AA1094; AA1095; AA1096; AA1097; AA1098; AA1099;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1092,q01-w15-m
+When did you take the supplements?,Cod liver oil,AA1100; AA1101; AA1102; AA1103; AA1104; AA1105; AA1106; AA1107;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1100,q01-w15-m
+When did you take the supplements?,Omega to 3 fatty acid,AA1108; AA1109; AA1110; AA1111; AA1112; AA1113; AA1114; AA1115;,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1108,q01-w15-m
+When did you take the supplements?,and diet products.,,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,,q01-w15-m
+When did you take the supplements?,Vitamins and dietary supplements1 2 3 4,,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,,q01-w15-m
+When did you take the supplements?,AA1116,AA1116; AA1116; AA1117; AA1118; AA1119; AA1120; AA1121; AA1116,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1116,q01-w15-m
+When did you take the supplements?,AA1670,AA1670; AA1670; AA1674; AA1670,,1==-Daily;2==4 to 6 times a week;3==1 to 3 times a week,Categorical,AA1670,q01-w15-m
+What education do you and the baby’s father have?,Education you have completed,AA1124,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1124,q01-w15-m
+What education do you and the baby’s father have?,Education baby’s father has completed,AA1126,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1126,q01-w15-m
+What education do you and the baby’s father have?,Education you’re doing,AA1125,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1125,q01-w15-m
+What education do you and the baby’s father have?,Education baby’s father is doing,AA1127,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1127,q01-w15-m
+What education do you and the baby’s father have?,Other education you have completed,AA1128,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1128,q01-w15-m
+What education do you and the baby’s father have?,Other education you’re doing,AA1129,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1129,q01-w15-m
+What education do you and the baby’s father have?,Other education baby’s father has completed,AA1130,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1130,q01-w15-m
+What education do you and the baby’s father have?,Other education baby’s father is doing,AA1131,,1==9==year secondary school;3==Vocational high school;5==Regional technical college 4==year university degree;5==Regional technical college 4==year university degree;6==University technical college more than 4 years;1==9==year secondary school,Categorical,AA1131,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,You Baby’s father,,,,Tick,,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Student,AA1132; AA1133;,,,Tick,AA1132,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,At home,AA1134; AA1135;,,,Tick,AA1134,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Intern or apprentice,AA1136; AA1137;,,,Tick,AA1136,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Military service,AA1138; AA1139;,,,Tick,AA1138,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Unemployed or laid off,AA1140; AA1141;,,,Tick,AA1140,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Rehabilitation or disabled,AA1142; AA1143;,,,Tick,AA1142,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Employed in public sector,AA1144; AA1145;,,,Tick,AA1144,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Employed in private sector,AA1146; AA1147;,,,Tick,AA1146,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Self-employed,AA1148; AA1149;,,,Tick,AA1148,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Family member without steady income in family,AA1150; AA1151;,,,Tick,AA1150,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,company,,,,Tick,,q01-w15-m
+What was your and the baby’s father’s work situation when you became pregnant?,Other,AA1152; AA1153;,,,Tick,AA1152,q01-w15-m
+Did you have an extra job when you became pregnant?,AA1158,AA1158; AA1158; AA1158,,1==No;2==Yes,Categorical,AA1158,q01-w15-m
+Did you have an extra job when you became pregnant?,If yes describe,AA1676,,1==No;2==Yes,Categorical,AA1676,q01-w15-m
+Have you been absent from work more than two weeks during this pregnancy?,AA1159,AA1159; AA1159; AA1159,,1==No;2==Yes,Categorical,AA1159,q01-w15-m
+Are you absent from your work at the present time?,AA1160,AA1160; AA1160; AA1160,,1==No;2==Yes,Categorical,AA1160,q01-w15-m
+If yes what is the reason for your absence?,Medical leave,AA1161,,Number 0 – 999,Numeric,AA1161,q01-w15-m
+If yes what is the reason for your absence?,Leave of absence,AA1162,,Number 0 – 999,Numeric,AA1162,q01-w15-m
+If yes what is the reason for your absence?,Sick child,AA1163,,Number 0 – 999,Numeric,AA1163,q01-w15-m
+If yes what is the reason for your absence?,Other,AA1164,,Number 0 – 999,Numeric,AA1164,q01-w15-m
+If yes what is the reason for your absence?,AA1165,AA1165; AA1165; AA1165,,Number 0 – 999,Numeric,AA1165,q01-w15-m
+If yes what is the reason for your absence?,If other describe,,,Number 0 – 999,Numeric,,q01-w15-m
+If yes what is the reason for your absence?,AA1677,AA1677; AA1677; AA1677,,Number 0 – 999,Numeric,AA1677,q01-w15-m
+If yes what is the reason for your absence?,Before the pregnancy,AA1166,,Number 0 – 999,Numeric,AA1166,q01-w15-m
+If yes what is the reason for your absence?,During the pregnancy,AA1167,,Number 0 – 999,Numeric,AA1167,q01-w15-m
+If yes what is the reason for your absence?,possible.,,,Number 0 – 999,Numeric,,q01-w15-m
+If yes what is the reason for your absence?,You,AA1168,,Number 0 – 999,Numeric,AA1168,q01-w15-m
+If yes what is the reason for your absence?,Baby’s father,AA1169,,Number 0 – 999,Numeric,AA1169,q01-w15-m
+Occupation or title at this workplace?,You,AA1170,,,Tick,AA1170,q01-w15-m
+Occupation or title at this workplace?,Baby’s father,AA1171,,,Tick,AA1171,q01-w15-m
+Occupation or title at this workplace?,name,,,,Tick,,q01-w15-m
+Occupation or title at this workplace?,AA1172,AA1172; AA1172; AA1172,,,Tick,AA1172,q01-w15-m
+Do you work walking or standing?,AA1176,AA1176; AA1176; AA1176,,2==Yes every day less than half of the,Categorical,AA1176,q01-w15-m
+How do the following statements describe your work situation?,I have physically heavy work,AA1179,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1179,q01-w15-m
+How do the following statements describe your work situation?,My work is very stressful,AA1180,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1180,q01-w15-m
+How do the following statements describe your work situation?,I learn a lot at work,AA1181,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1181,q01-w15-m
+How do the following statements describe your work situation?,My work is very monotonous,AA1182,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1182,q01-w15-m
+How do the following statements describe your work situation?,My work demands a lot of me,AA1183,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1183,q01-w15-m
+How do the following statements describe your work situation?,I enjoy my work,AA1186,,1==Agree;2==Agree mostly;3==Disagree mostly;4==Disagree,Categorical,AA1186,q01-w15-m
+When are your working hours?,Permanent day work,AA1187,,,Tick,AA1187,q01-w15-m
+When are your working hours?,Permanent afternoon or evening work,AA1188,,,Tick,AA1188,q01-w15-m
+When are your working hours?,Permanent night work,AA1189,,,Tick,AA1189,q01-w15-m
+When are your working hours?,Shift work or shift rotations,AA1190,,,Tick,AA1190,q01-w15-m
+When are your working hours?,No set times,AA1191,,,Tick,AA1191,q01-w15-m
+When are your working hours?,Other,AA1192,,,Tick,AA1192,q01-w15-m
+During your pregnancy do you lift anything that weighs more than 10 k?,At home,,,1==Infrequently or never;2==Yes less than 20 times a week;3==Yes more than 20 times a week;4==Yes;5==Yes more than 20 times a day,Categorical,,q01-w15-m
+During your pregnancy do you lift anything that weighs more than 10 k?,AA1193,AA1193; AA1193; AA1193,,1==Infrequently or never;2==Yes less than 20 times a week;3==Yes more than 20 times a week;4==Yes;5==Yes more than 20 times a day,Categorical,AA1193,q01-w15-m
+During your pregnancy do you lift anything that weighs more than 10 k?,At work,,10 to 20,1==Infrequently or never;2==Yes less than 20 times a week;3==Yes more than 20 times a week;4==Yes;5==Yes more than 20 times a day,Categorical,,q01-w15-m
+During your pregnancy do you lift anything that weighs more than 10 k?,AA1194,AA1194; AA1194; AA1194,,1==Infrequently or never;2==Yes less than 20 times a week;3==Yes more than 20 times a week;4==Yes;5==Yes more than 20 times a day,Categorical,AA1194,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Computer monitor,AA1198,,1==Never;2==Infrequently;3==Often;4==On average more than an hour daily,Categorical,AA1198,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Computer monitor,AA1198,,1==Never;2==Infrequently;3==Daily;4==On average more than an hour daily,Categorical,AA1198,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Computer monitor,AA1198,,1==Never;2==A few times a week;3==Often;4==On average more than an hour daily,Categorical,AA1198,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Computer monitor,AA1198,,1==Never;2==A few times a week;3==Daily;4==On average more than an hour daily,Categorical,AA1198,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Laser printer,AA1199,,1==Never;2==Infrequently;3==Often;4==On average more than an hour daily,Categorical,AA1199,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Laser printer,AA1199,,1==Never;2==Infrequently;3==Daily;4==On average more than an hour daily,Categorical,AA1199,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Laser printer,AA1199,,1==Never;2==A few times a week;3==Often;4==On average more than an hour daily,Categorical,AA1199,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Laser printer,AA1199,,1==Never;2==A few times a week;3==Daily;4==On average more than an hour daily,Categorical,AA1199,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Copying machine,AA1200,,1==Never;2==Infrequently;3==Often;4==On average more than an hour daily,Categorical,AA1200,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Copying machine,AA1200,,1==Never;2==Infrequently;3==Daily;4==On average more than an hour daily,Categorical,AA1200,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Copying machine,AA1200,,1==Never;2==A few times a week;3==Often;4==On average more than an hour daily,Categorical,AA1200,q01-w15-m
+Do your cell phone calls last more than 15 minutes?,Copying machine,AA1200,,1==Never;2==A few times a week;3==Daily;4==On average more than an hour daily,Categorical,AA1200,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Lead vapors lead dust lead particles,AA1202; AA1203; AA1204; AA1205;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1202,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,or lead alloys,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Chrome arsenic cadmium or,AA1206; AA1207; AA1208; AA1209;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1206,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,combinations of these,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Gasoline or exhaust,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Mercury vapors mercury or work with,AA1214; AA1215; AA1216; AA1217;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1214,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,amalgam fillings,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Disinfectants vermin poisons,AA1218; AA1219; AA1220; AA1221;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1218,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Weed killers insecticides fungicides,AA1222; AA1223; AA1224; AA1225;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1222,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Oil-based paint,AA1226; AA1227; AA1228; AA1229;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1226,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Water-based or latex paint,AA1230; AA1231; AA1232; AA1233;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1230,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Paint thinner paint-lacquer-glue,AA1234; AA1235; AA1236; AA1237;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1234,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,remover or other solvents,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Industrial dyes or ink,AA1238; AA1239; AA1240; AA1241;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1238,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Motor oil lubrication oil or other,AA1242; AA1243; AA1244; AA1245;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1242,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,types of oil,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Photographic chemicals,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Substances used in welding,AA1250; AA1251; AA1252; AA1253;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1250,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Substances used in soldering,AA1254; AA1255; AA1256; AA1257;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1254,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Formalin or formaldehyde,AA1258; AA1259; AA1260; AA1261;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1258,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Chemotherapeutic substances or,AA1262; AA1263; AA1264; AA1265;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1262,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,chemotherapy treatment,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Laughing gas or other anesthetic,AA1266; AA1267; AA1268; AA1269;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1266,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,gases,,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Other substances and conditions,AA1270; AA1271; AA1272; AA1273;,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1270,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,Other substances and conditions,AA1274,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1274,q01-w15-m
+Have you been in contact with any of the following substances either at work or in your leisure time during the last six months?,describe,AA1682,,1==Yes number of a hood for gases or used protective;2==No days breathing protection gloves,Categorical,AA1682,q01-w15-m
+How often have you been to a discotheque since you became pregnant?,AA1275,AA1275; AA1275; AA1275,,1==1 to 2 times a week;2==Less often;3==Never,Categorical,AA1275,q01-w15-m
+Are you in contact with animals either at work or in your leisure?,AA1276,AA1276; AA1276; AA1276,,1==No;2==Yes,Categorical,AA1276,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Dog,AA1280,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1280,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Cat,AA1281,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1281,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Guinea pig,AA1282,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1282,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Hamster,AA1283,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1283,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Rabbit,AA1284,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1284,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Canary or other bird,AA1285,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1285,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Aquarium fish,AA1286,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1286,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Cow,AA1287,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1287,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Pig,AA1288,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1288,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Sheep goat,AA1289,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1289,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Horse,AA1290,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1290,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Poultry,AA1291,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1291,q01-w15-m
+If yes what sort of animals and how often are you in contact with them on a weekly basis?,Other,AA1292,,1==Daily;2==3 to 6 times a week;3==1 to 2 times a week;4==Less than once a week,Categorical,AA1292,q01-w15-m
+With whom do you live?,Spouse or partner,AA1293,,,Tick,AA1293,q01-w15-m
+With whom do you live?,Parents,AA1294,,,Tick,AA1294,q01-w15-m
+With whom do you live?,Parents-in-law,AA1295,,,Tick,AA1295,q01-w15-m
+With whom do you live?,Children,AA1296,,,Tick,AA1296,q01-w15-m
+With whom do you live?,No one,AA1297,,,Tick,AA1297,q01-w15-m
+With whom do you live?,Other,AA1298,,,Tick,AA1298,q01-w15-m
+With whom do you live?,If other describe,AA1299,,,Tick,AA1299,q01-w15-m
+If yes which language?,You,AA1306,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1306,q01-w15-m
+If yes which language?,Baby’s father,,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,,q01-w15-m
+If yes which language?,AA1307,AA1307; AA1307; AA1307,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1307,q01-w15-m
+If yes which language?,AA1308,AA1308; AA1308; AA1308,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1308,q01-w15-m
+If yes which language?,If other which,,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,,q01-w15-m
+If yes which language?,AA1684,AA1684; AA1684; AA1684,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1684,q01-w15-m
+If yes which language?,Your mother,AA1310,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1310,q01-w15-m
+If yes which language?,Your father,AA1311,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1311,q01-w15-m
+If yes which language?,Mother of the child’s father,AA1312,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1312,q01-w15-m
+If yes which language?,Father of the child’s father,AA1313,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1313,q01-w15-m
+If yes which language?,AA1314,AA1314; AA1314; AA1314,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1314,q01-w15-m
+If yes which language?,If other which,,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,,q01-w15-m
+If yes which language?,AA1685,AA1685; AA1685; AA1685,,1==Sámi;2==Urdu;3==English;4==Other,Categorical,AA1685,q01-w15-m
+What is your and the baby’s father’s yearly gross income?,AA1315,AA1315; AA1315; AA1315,,1==No income;2==Under;3==;4==;5==;6==;7==Over;8==Don’t know,Categorical,AA1315,q01-w15-m
+What is your and the baby’s father’s yearly gross income?,Your gross income,,,1==No income;2==Under;3==;4==;5==;6==;7==Over;8==Don’t know,Categorical,,q01-w15-m
+What is your and the baby’s father’s yearly gross income?,Child’s father’s gross income,,,1==No income;2==Under;3==;4==;5==;6==;7==Over;8==Don’t know,Categorical,,q01-w15-m
+Is it possible for your household to manage financially without your income?,AA1317,AA1317; AA1317; AA1317,,1==No;2==Yes but with difficulty;3==Yes without difficulty,Categorical,AA1317,q01-w15-m
+What type of housing do you live in?,Detached house,AA1318,,,Tick,AA1318,q01-w15-m
+What type of housing do you live in?,Farm,AA1319,,,Tick,AA1319,q01-w15-m
+What type of housing do you live in?,Semidetached,AA1320,,,Tick,AA1320,q01-w15-m
+What type of housing do you live in?,Four-flat house,AA1321,,,Tick,AA1321,q01-w15-m
+What type of housing do you live in?,Maisonette,AA1322,,,Tick,AA1322,q01-w15-m
+What type of housing do you live in?,Terraced flat,AA1323,,,Tick,AA1323,q01-w15-m
+What type of housing do you live in?,Basement flat,AA1324,,,Tick,AA1324,q01-w15-m
+What type of housing do you live in?,Apartment building,AA1325,,,Tick,AA1325,q01-w15-m
+What type of housing do you live in?,Townhouse or tenement,AA1326,,,Tick,AA1326,q01-w15-m
+Which floor?,Other,AA1328,,,Tick,AA1328,q01-w15-m
+Which floor?,AA1329,AA1329; AA1329; AA1329,,,Tick,AA1329,q01-w15-m
+Which floor?,If other describe,,,,Tick,,q01-w15-m
+Which floor?,AA1686,AA1686; AA1686; AA1686,,,Tick,AA1686,q01-w15-m
+Has there been water damage visible signs of fungus or mildew or a smell of mildew in your home in the past 3 months?,No,AA1330,,,Tick,AA1330,q01-w15-m
+Has there been water damage visible signs of fungus or mildew or a smell of mildew in your home in the past 3 months?,Yes water damage,AA1331,,,Tick,AA1331,q01-w15-m
+Has there been water damage visible signs of fungus or mildew or a smell of mildew in your home in the past 3 months?,Yes signs of fungus and mould,AA1332,,,Tick,AA1332,q01-w15-m
+Has there been water damage visible signs of fungus or mildew or a smell of mildew in your home in the past 3 months?,Yes a smell of mildew,AA1333,,,Tick,AA1333,q01-w15-m
+Where does your drinking water come from?,Public or private water supply,AA1334,,,Tick,AA1334,q01-w15-m
+Where does your drinking water come from?,Water from a local source,AA1335,,,Tick,AA1335,q01-w15-m
+If yes which illness?,German measles,AA1338,,,Tick,AA1338,q01-w15-m
+If yes which illness?,Chicken pox,AA1339,,,Tick,AA1339,q01-w15-m
+If yes which illness?,Measles,AA1340,,,Tick,AA1340,q01-w15-m
+If yes which illness?,Roseola infantum,AA1341,,,Tick,AA1341,q01-w15-m
+If yes which illness?,Other fever with rash,AA1342,,,Tick,AA1342,q01-w15-m
+If yes which illness?,Influenza,AA1343,,,Tick,AA1343,q01-w15-m
+If yes which illness?,Prolonged cough,AA1344,,,Tick,AA1344,q01-w15-m
+If yes which illness?,Tuberculosis,AA1345,,,Tick,AA1345,q01-w15-m
+If yes which illness?,Hand foot and mouth disease,AA1346,,,Tick,AA1346,q01-w15-m
+If yes which illness?,Other,AA1347,,,Tick,AA1347,q01-w15-m
+Have you used any of the following substances?,Hash,AA1432; AA1433; AA1434; AA1435;,,,Tick,AA1432,q01-w15-m
+Have you used any of the following substances?,Amphetamine,AA1436; AA1437; AA1438; AA1439;,,,Tick,AA1436,q01-w15-m
+Have you used any of the following substances?,Ecstasy,AA1440; AA1441; AA1442; AA1443;,,,Tick,AA1440,q01-w15-m
+Have you used any of the following substances?,Cocaine,AA1444; AA1445; AA1446; AA1447;,,,Tick,AA1444,q01-w15-m
+Have you used any of the following substances?,Heroin,AA1448; AA1449; AA1450; AA1451;,,,Tick,AA1448,q01-w15-m
+How often did you consume alcohol in the 3 months before you became pregnant and how often do you consume alcohol during the pregnancy?,Last 3 months before pregnancy,AA1453,6 to 7,1==Approximately;6 to 7s time a week;4==Approximately once a week,Categorical,AA1453,q01-w15-m
+How often did you consume alcohol in the 3 months before you became pregnant and how often do you consume alcohol during the pregnancy?,During pregnancy,AA1454,,1==Approximately;6 to 7s time a week;4==Approximately once a week,Categorical,AA1454,q01-w15-m
+What type of alcohol do you usually drink?,Light beer,AA1455,,,Tick,AA1455,q01-w15-m
+What type of alcohol do you usually drink?,Beer,AA1456,,,Tick,AA1456,q01-w15-m
+What type of alcohol do you usually drink?,Red wine,AA1457,,,Tick,AA1457,q01-w15-m
+What type of alcohol do you usually drink?,White wine,AA1458,,,Tick,AA1458,q01-w15-m
+What type of alcohol do you usually drink?,Low alcohol sodas,AA1459,,,Tick,AA1459,q01-w15-m
+What type of alcohol do you usually drink?,Fortified wines,AA1460,,,Tick,AA1460,q01-w15-m
+What type of alcohol do you usually drink?,Spirits,AA1461,,,Tick,AA1461,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,remember getting to,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Been absent from work or school,AA1472,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1472,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Fainted or passed out suddenly,AA1473,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1473,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Had a bad time,AA1474,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1474,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1475,AA1475; AA1475; AA1475,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1475,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1476,AA1476; AA1476; AA1476,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1476,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1477,AA1477; AA1477; AA1477,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1477,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1478,AA1478; AA1478; AA1478,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1478,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1479,AA1479; AA1479; AA1479,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1479,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,Last 6 months before,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,this pregnancy,,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1480,AA1480; AA1480; AA1481; AA1480,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1480,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1482,AA1482; AA1482; AA1483; AA1482,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1482,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1484,AA1484; AA1484; AA1485; AA1484,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1484,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1486,AA1486; AA1486; AA1487; AA1486,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1486,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Once;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Once;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==1 to 3 times a month;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==1 to 3 times a month;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Less than once a week;3==Several times;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Have you ever experienced any of the following problems during the last year in relation to your alcohol consumption?,AA1488,AA1488; AA1488; AA1488,,1==Never;2==Less than once a week;3==Once a week;4==Twice a week;5==3 to 4 times or more a week;6==5 times a week or more,Categorical,AA1488,q01-w15-m
+Do you agree or disagree with the following statements?,The conditions of my life are excellent,AA1528,,2==Disagree;4==Don’t agree or disagree;6==Agree;7==Agree completely,Categorical,AA1528,q01-w15-m
+Do you agree or disagree with the following statements?,I am satisfied with my life,AA1529,,2==Disagree;4==Don’t agree or disagree;6==Agree;7==Agree completely,Categorical,AA1529,q01-w15-m
+How well do these statements describe your relationship?,I am very happy with our relationship,AA1534,,1==Agree completely;2==Agree;3==Agree somewhat;4==Disagree somewhat;5==Disagree;6==Disagree completely,Categorical,AA1534,q01-w15-m
+How well do these statements describe your relationship?,My partner is generally understanding,AA1535,,1==Agree completely;2==Agree;3==Agree somewhat;4==Disagree somewhat;5==Disagree;6==Disagree completely,Categorical,AA1535,q01-w15-m
+How well do these statements describe your relationship?,I often consider ending our relationship,AA1536,,1==Agree completely;2==Agree;3==Agree somewhat;4==Disagree somewhat;5==Disagree;6==Disagree completely,Categorical,AA1536,q01-w15-m
+How well do these statements describe your relationship?,We frequently disagree on important decisions,AA1538,,1==Agree completely;2==Agree;3==Agree somewhat;4==Disagree somewhat;5==Disagree;6==Disagree completely,Categorical,AA1538,q01-w15-m
+Have you been bothered by any of the following during the last two weeks?,Feeling fearful,AA1548,,1==Not bothered;2==A little bothered;3==Quite bothered;4==Very bothered,Categorical,AA1548,q01-w15-m
+Have you been bothered by any of the following during the last two weeks?,Nervousness or shakiness inside,AA1549,,1==Not bothered;2==A little bothered;3==Quite bothered;4==Very bothered,Categorical,AA1549,q01-w15-m
+Have you been bothered by any of the following during the last two weeks?,Feeling hopeless about the future,AA1550,,1==Not bothered;2==A little bothered;3==Quite bothered;4==Very bothered,Categorical,AA1550,q01-w15-m
+Have you been bothered by any of the following during the last two weeks?,Felling blue,AA1551,,1==Not bothered;2==A little bothered;3==Quite bothered;4==Very bothered,Categorical,AA1551,q01-w15-m
+Have you been bothered by any of the following during the last two weeks?,Worrying too much about things,AA1552,,1==Not bothered;2==A little bothered;3==Quite bothered;4==Very bothered,Categorical,AA1552,q01-w15-m
+Have you ever in your adult life been slapped hit kicked or bothered in any way physically?,During this pregnancy,AA1553,,1==Yes;2==No;3==Don’t remember,Categorical,AA1553,q01-w15-m
+Have you ever in your adult life been slapped hit kicked or bothered in any way physically?,Last 6 months before pregnancy,AA1554,,1==Yes;2==No;3==Don’t remember,Categorical,AA1554,q01-w15-m
+Have you ever in your adult life been slapped hit kicked or bothered in any way physically?,Earlier,AA1555,,1==Yes;2==No;3==Don’t remember,Categorical,AA1555,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,During this,,,,Tick,,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,pregnancy,,,,Tick,,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,No never,AA1556; AA1557; AA1558;,,,Tick,AA1556,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,Yes pressured,AA1559; AA1560; AA1561;,,,Tick,AA1559,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,Yes forced with violence,AA1562; AA1563; AA1564;,,,Tick,AA1562,q01-w15-m
+Have you ever been pressured or forced to have sexual intercourse?,Yes raped,AA1565; AA1566; AA1567;,,,Tick,AA1565,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==Agree completely;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==Agree completely;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==No;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==No;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==No no particular reason;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I have a positive attitude toward myself,AA1568,,Number;1==No no particular reason;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1568,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==Agree completely;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==Agree completely;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==No;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==No;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==No no particular reason;2==Agree;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How do you feel about yourself?,I feel completely useless at times,AA1569,,Number;1==No no particular reason;2==Yes;3==Disagree;4==Disagree completely,Categorical,AA1569,q01-w15-m
+How old were you when you had your first menstrual period?,,,,Number,Numeric,,q01-w15-m
+How many days are there usually between the first day in your menstrual period and the first day in your next menstrual period?,,,,Number,Numeric,,q01-w15-m
+Are you usually depressed or irritable before your period?,,,,1==No;2==Yes but just slightly;3==Yes noticeably;4==Yes very much,Categorical,,q01-w15-m
+If yes does this feeling disappear after you get your period?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Were your periods regular the year before you became pregnant?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+If you have used the pill or mini-pill how old were you when you first used it?,,,,Number 0 - 99,Numeric,,q01-w15-m
+Did you become pregnant even though you or your partner used contraceptives?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+If you became pregnant while using an IUD has it now been removed?,,,,1==No,Categorical,,q01-w15-m
+Do you have a congenital deformity or birth defect?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+If you use multivitamins do these contain folic acid?,,,,1==Yes;2==No;3==Dont know,Categorical,,q01-w15-m
+AA1172 taxing?,,,,1==Yes every day more than half of,Categorical,,q01-w15-m
+Are you subjected to a lot of uncomfortable background noise?,,,,3==Yes periodically but not daily;4==Seldom or never,Categorical,,q01-w15-m
+How often have you worked with radio transmitters or radar after becoming pregnant?,,,,1==Infrequently;2==Never;3==A few times a week;4==Daily;5==On average more than an hour daily,Categorical,,q01-w15-m
+How often do you use a cell phone?,,,,1==Infrequently;2==Never;3==A few times a week;4==Daily;5==On average more than an hour daily,Categorical,,q01-w15-m
+How often have you worked with x-ray equipment after you became pregnant?,,,,1==Never;2==A few times a week;3==Daily;4==On average more than an hour daily,Categorical,,q01-w15-m
+How many people including you live in your home?,,,,Number of people over 18 years,Numeric,,q01-w15-m
+How many people including you live in your home?,,,,Number of people between 12 and 18 years,Numeric,,q01-w15-m
+How many people including you live in your home?,,,,Number of people between 6 and 11 years,Numeric,,q01-w15-m
+How many people including you live in your home?,,,,Number of people under 6 years,Numeric,,q01-w15-m
+Do you or the babys father have a mother tongue other than Norwegian?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Do your parents or the babys fathers parents have a mother tongue other than Norwegian?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+How many times have you moved in the last 3 years?,,,,Number,Numeric,,q01-w15-m
+Has anyone in your home had influenza a prolonged cough childhood disease or an illness with fever and a rash after your became pregnant?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Did your mother smoke when she was pregnant with you?,,,,1==No;2==Yes;3==Don’t know,Categorical,,q01-w15-m
+Are you exposed to passive smoking at home?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+If yes how many hours a day are you exposed to passive smoking?,,,,Number,Numeric,,q01-w15-m
+Are you exposed to passive smoking at work?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Did the baby’s father smoke before you became pregnant?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Does he smoke now?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Have you ever smoked?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Do you smoke now?,,,,1==No;2==Sometimes;3==Daily,Categorical,,q01-w15-m
+If sometimes how many cigarettes per week?,,,,Number,Numeric,,q01-w15-m
+Did you smoke during the last 3 months before you became pregnant this time?,,,,1==No;2==Sometimes;3==Daily,Categorical,,q01-w15-m
+How old were you when you started to smoke on a daily basis?,,,,Number,Numeric,,q01-w15-m
+Have you stopped smoking completely?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+If yes how old were you when you stopped smoking?,,,,Number,Numeric,,q01-w15-m
+If you stopped smoking after you became pregnant in which week of pregnancy did you stop?,,,,Number,Numeric,,q01-w15-m
+How long after you get up in the morning until you light your first cigarette?,,,,1==5 minutes;2==6 to 29 minutes;3==30 to 60 minutes;4==More than one hour,Categorical,,q01-w15-m
+Do you smoke when you are ill?,,,,1==No;2==Yes,Categorical,,q01-w15-m
+Do you smoke more often during the first few hours after you wake up than you do during the rest of the day?,,,,1==No;2==Yes,Categorical,,q01-w15-m

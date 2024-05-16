@@ -1,0 +1,317 @@
+Q1,Q2,CODES,OPT,R,TYPE,C1,Q
+What is the child’s height and weight now at 7 years old?,Height cm,,,,Tick,,q08-y07-m
+What is the child’s height and weight now at 7 years old?,Weight kg,,,,Tick,,q08-y07-m
+What is the child’s height and weight now at 7 years old?,Measured self,,,,Tick,,q08-y07-m
+What is the child’s height and weight now at 7 years old?,Measured by doctor or nurse,,,,Tick,,q08-y07-m
+Outside of school approximately how many times per week is the child physically active or takes part in sports such that he or she becomes short of breath or sweaty?,times per week,,0 to 99,Number,Numeric,,q08-y07-m
+Outside of school approximately how many times per week does the child spend on physical activity or sports?,Summer,,,1==Less than 1 hour per week;2==1 to 2 hours per week;3==3 to 4 hours per week;4==5 to 7 hours per week;5==8 to 10 hours per week;6==11 hours or more per week,Categorical,,q08-y07-m
+Outside of school approximately how many times per week does the child spend on physical activity or sports?,Winter,,,1==Less than 1 hour per week;2==1 to 2 hours per week;3==3 to 4 hours per week;4==5 to 7 hours per week;5==8 to 10 hours per week;6==11 hours or more per week,Categorical,,q08-y07-m
+Outside of school on a regular week day: approximately how many hours per day is the child usually outdoors?,Summer,,,Number,Numeric,,q08-y07-m
+Outside of school on a regular week day: approximately how many hours per day is the child usually outdoors?,Winter,,,Number,Numeric,,q08-y07-m
+How many days has the child missed school in the past three months because of illness?,leisure activities,,,Number,Numeric,,q08-y07-m
+How many days has the child missed school in the past three months because of illness?,leisure activities,,,Number of days of interruption from play and,Numeric,,q08-y07-m
+Has the child been swimming in an indoor swimming pool in the past 12 months?,If sometimes number of hours per month,,,Number;1==No;2==Sometimes;3==Weekly,Categorical,,q08-y07-m
+Has the child been swimming in an indoor swimming pool in the past 12 months?,If weekly number of hours per week,,,Number;1==No;2==Sometimes;3==Weekly,Categorical,,q08-y07-m
+Has the child been swimming in an indoor swimming pool in the past 12 months?,When the child was,,4 to 6,Number;1==No;2==Sometimes;3==Weekly,Categorical,,q08-y07-m
+When the child was pool?,If sometimes number of hours per month,,,Number;1==Never or rarely;2==Sometimes;3==Weekly,Categorical,,q08-y07-m
+When the child was pool?,If weekly number of hours per week,,,Number;1==Never or rarely;2==Sometimes;3==Weekly,Categorical,,q08-y07-m
+How often does the child get to school by?,Walking or riding a bike,,,,Tick,,q08-y07-m
+How often does the child get to school by?,Car,,,,Tick,,q08-y07-m
+How often does the child get to school by?,Public transportation,,,,Tick,,q08-y07-m
+If not how much of the time does the child live with you and his or her father respectively?,Mother,,,1==Almost always;2==Half of the time or more;3==Less than half of the time,Categorical,,q08-y07-m
+If not how much of the time does the child live with you and his or her father respectively?,Father,,,1==Almost always;2==Half of the time or more;3==Less than half of the time,Categorical,,q08-y07-m
+Has there been any damage caused by damp any visible mould growth or smell of mould in the child’s home during the last year?,No,,,,Tick,,q08-y07-m
+Has there been any damage caused by damp any visible mould growth or smell of mould in the child’s home during the last year?,Yes visible mould during the last year,,,,Tick,,q08-y07-m
+Has there been any damage caused by damp any visible mould growth or smell of mould in the child’s home during the last year?,Yes smell of mould during the last year,,,,Tick,,q08-y07-m
+Do you smoke now? If yes how many cigarettes?,If smoke sometimes number of cigarettes per week,,0 to 99,Number;0 to 99,Numeric,,q08-y07-m
+Do you smoke now? If yes how many cigarettes?,If smoke daily number of cigarettes daily,,0 to 99,Number;0 to 99,Numeric,,q08-y07-m
+Does the child’s father smoke? If yes how many cigarettes?,If smokes sometimes number of cigarettes per week,,0 to 99,Number;0 to 99,Numeric,,q08-y07-m
+Does the child’s father smoke? If yes how many cigarettes?,If smokes daily number of cigarettes daily,,0 to 99,Number;0 to 99,Numeric,,q08-y07-m
+During the last year has wood-burning heating been used as heating in the child’s home?,If yes is wood-burning heating the main,,,1==No;2==Yes,Categorical,,q08-y07-m
+If yes which?,Dog,,,,Tick,,q08-y07-m
+If yes which?,Cat,,,,Tick,,q08-y07-m
+If yes which?,Other furry animals,,,,Tick,,q08-y07-m
+If yes which?,Bird,,,,Tick,,q08-y07-m
+If yes which?,Other,,,,Tick,,q08-y07-m
+If yes which?,Horse,,,,Tick,,q08-y07-m
+If yes which?,Pig,,,,Tick,,q08-y07-m
+If yes which?,Sheep or goat,,,,Tick,,q08-y07-m
+If yes which?,Cattle,,,,Tick,,q08-y07-m
+If yes which?,Hens or poultry,,,,Tick,,q08-y07-m
+If yes which?,Other,,,,Tick,,q08-y07-m
+If yes which?,Rheumatoid arthritis or chronic joint inflammation,,,,Tick,,q08-y07-m
+If yes which?,Cancer,,,,Tick,,q08-y07-m
+If yes which?,Diabetes,,,,Tick,,q08-y07-m
+If yes which?,Cerebral palsy,,,,Tick,,q08-y07-m
+If yes which?,ADHD,,,,Tick,,q08-y07-m
+If yes which?,Coeliac disease,,,,Tick,,q08-y07-m
+If yes which?,Fractures,,,,Tick,,q08-y07-m
+If yes which?,Epilepsy,,,,Tick,,q08-y07-m
+If yes which?,Mentally disabled,,,,Tick,,q08-y07-m
+If yes which?,Autistic characteristics or autism,,,,Tick,,q08-y07-m
+If yes which?,Asperger’s syndrome,,,,Tick,,q08-y07-m
+If yes which?,Chronic Fatigue Syndrome or ME,,,,Tick,,q08-y07-m
+If yes which?,Removed tonsils,,,,Tick,,q08-y07-m
+If yes which?,Middle ear drains,,,,Tick,,q08-y07-m
+If yes which?,Other conditions congenital syndrome,,,,Tick,,q08-y07-m
+If yes which?,Other conditions congenital syndrome describe,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,he or she recovered.,,,,Tick,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,In version B & C,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Trouble sleeping,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Anaemia,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Delayed motor,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,development,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Delayed or deviating,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,language development,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,behavioural problems,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Emotional difficulties,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Overweight,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Asthma,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to pollen or hay,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,fever,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to cat or dog,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Atopic,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,eczema or dermatitis,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to milk,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to egg,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to peanuts,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to other nuts,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to fish,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to shellfish,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to fruit,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,Allergy to other,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+Has or Confirmed by Health problems Symptoms Child no longer has had a doctor? started at the last year?,foods,,,1==No Age 1==No problems;2==Yes Yes 2==Yes Age,Categorical,,q08-y07-m
+If yes which?,Wheat,,,,Tick,,q08-y07-m
+If yes which?,Soy,,,,Tick,,q08-y07-m
+If yes which?,Rye,,,,Tick,,q08-y07-m
+If yes which?,Other,,,,Tick,,q08-y07-m
+If yes which?,Other describe,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,he or she recovered.,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,In version A,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Yes illness started Age doctor,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,at Age,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Asthma,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Allergy to pollen or hay,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,fever,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Atopic,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,eczema or dermatitis,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Hearing loss,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Impaired vision,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Overweight,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Too little weight gain,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Trouble sleeping,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Rheumatoid or arthritis,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Heart defects,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Crohn disease,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Ulcerative colitis,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Chronic fatigue,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,syndrome,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Celiac Disease,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Diabetes,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Epilepsy,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Cerebral palsy,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Anaemia,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Cancer,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Delayed motor,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,development,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Delayed or deviate,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,language development,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Hyperactivity or ADHD,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Autistic,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,characteristics or autism,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Asperger syndrome,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Behavioural,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,problems,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Emotional difficulties,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Allergy to milk,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Allergy to egg,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Allergy to fish,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Allergy to other,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,foods,,,,Tick,,q08-y07-m
+During the last year has the child used medication spray inhaler or other medications for treatment of asthma?,If yes,,,1==No;2==Yes,Categorical,,q08-y07-m
+During the last year has the child used medication spray inhaler or other medications for treatment of asthma?,Name of medication used on a regular basis,,,1==No;2==Yes,Categorical,,q08-y07-m
+During the last year has the child used medication spray inhaler or other medications for treatment of asthma?,Name of medication used during attacks,,,1==No;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,In version B & C,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Tightness or wheezing or w,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,histling in the chest,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Night cough without a,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,cold,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Tightness or wheezing in,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,the chest during or after,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,physical exercise,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Runny nose without a,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,cold,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Itchy or runny eyes,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,without a cold,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Itchy rash that has,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,come and gone for at,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,least 6 months,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Hives or urticaria,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Stomach pains,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Migraine,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Other headache,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Diarrhoea,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Heartburn or acid reflux,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Ear infection,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Pneumonia or bronchitis,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Urinary tract,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,infection,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Other,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Has the child ever had or does the child have any of the following symptoms or health problems?,Other describe,,,Number of times;1==No older last 12 months;2==Yes,Categorical,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,recovered.,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Yes,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,started at Age Age doctor,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Wheezing or whistling in,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,the chest,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Tightness in the chest,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Nocturnal cough,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,without a cold,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Tightness or wheezing in,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,the chest during or after,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,physical exercise,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Running nose without,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,a cold,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Itchy or runny eyes,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,without a cold,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Itchy rash that has,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,come and gone for at,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,least 6 months,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Stomach pains,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Migraine,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Other headaches,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Diarrhoea,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Febrile convulsions,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Sore throat,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Ear infection,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Bronchitis,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Pneumonia,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Urinary tract,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,infection,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Fractures,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Other injuries,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Meningitis,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Other symptoms or,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,illnesses,,,,Tick,,q08-y07-m
+Does the child have or has he or she ever had any of the following illnesses or health problems?,Other describe,,,,Tick,,q08-y07-m
+Does your child take any of the following dietary supplements?,Liquid supplements,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Cod liver oil,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Omega 3,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Omega 3 brand name:,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Sanasol or Biovit,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Other liquid dietary supplement,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Other liquid dietary supplement brand name:,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Capsules or tablets,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Omega 3,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Omega 3 brand name:,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Cod liver oil,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Multivitamins,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Multivitamins brand name:,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Fluoride tablets,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Other dietary supplements,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+Does your child take any of the following dietary supplements?,Other dietary supplements brand name:,,,Number of times per week Amount per time;1==6 to 7 1==1tsp;2==4 to 5 2==1childsp;3==1 to 3 3==1dessertsp;4==˂1;5==0,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Carrot,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Cabbage cauliflower broccoli,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Lettuce,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Potatoes,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Other vegetables,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Oranges clementine,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Apple pear grapes,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Banana,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Other fresh fruit or berries,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Ecologically grown fruits or vegetables,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Sliced meat liver pate bologna or similar,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Fish spread including roe,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Cheese cheese spread,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Jam,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Chocolate and nut spread,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Peanut butter,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Muesli or oatmeal,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Yogurt,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Egg,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Rice spaghetti pasta,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Fatty fish,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Other fish,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Fish balls or fish pudding or similar,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Shell fish,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Pure meat,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Pizza,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Processed meats,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Vegetarian dishes,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Pancakes,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Sweet buns or waffles or cakes,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Ice cream and milk based desserts,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Chocolate sweets or candy,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Peanuts,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Other nuts,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually eat the following?,Potato crisps or similar,,,1==Never or seldom;2==1 to 3 times per month Cornflakes Honeycorn Frosties or similar;3==1 to 2 times per week;4==3 to 4 times per week;5==5 to 6 times per week;6==1 time or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Whole fat milk,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Whole fat milk,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Whole fat milk,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Low fat-and skimmed milk,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Low fat-and skimmed milk,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Low fat-and skimmed milk,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Chocolate milk,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Chocolate milk,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Chocolate milk,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Biola or Cultured milk,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Biola or Cultured milk,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Biola or Cultured milk,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Orange juice other juice,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Orange juice other juice,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Orange juice other juice,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Apple nectar or other nectar,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Apple nectar or other nectar,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Apple nectar or other nectar,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diluting squash with added sugar,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diluting squash with added sugar,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diluting squash with added sugar,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Artificially sweetened diluting squash,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Artificially sweetened diluting squash,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Artificially sweetened diluting squash,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Sodas with sugar,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Sodas with sugar,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Sodas with sugar,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diet sodas,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diet sodas,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Diet sodas,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Water,,,1==Never or seldom;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Water,,,1==No;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+How often does your child usually drink the following?,Water,,,1==Once daily;2==1 to 3 glasses per month;3==1 to 3 glasses per week;4==4 to 6 glasses per week;5==1 to 3 glasses per day;6==4 glasses or more per day,Categorical,,q08-y07-m
+Do you or have you ever had any of the following illnesses or health problems?,Confirmed by Symptoms Symptoms,,,,Tick,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Yes Age,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Yes,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Asthma,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Pollen allergy or hay,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,fever,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Tightness or wheezing or whi,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,stling in chest,,,1==No;2==Yes,Categorical,,q08-y07-m
+If yes do you have or have you had an allergy to the following foods?,Confirmed by Symptoms Symptoms,,,,Tick,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Yes Age,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Yes,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to milk,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to egg,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to peanuts,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to other nuts,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to shellfish,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to fish,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to fruit,,,1==No;2==Yes,Categorical,,q08-y07-m
+Confirmed by Symptoms Symptoms a doctor? started at the last year?,Allergy to other foods,,,1==No;2==Yes,Categorical,,q08-y07-m
+If yes which?,Wheat,,,,Tick,,q08-y07-m
+If yes which?,Soy,,,,Tick,,q08-y07-m
+If yes which?,Rye,,,,Tick,,q08-y07-m
+If yes which?,Other,,,,Tick,,q08-y07-m
+If yes which?,Other describe,,,,Tick,,q08-y07-m
+Does the child’s father live together with you?,,,,1==Yes;2==No,Categorical,,q08-y07-m
+Does the child’s father live together with you?,,,,1==Yes;2==Half of the time or more,Categorical,,q08-y07-m
+Does the child’s father live together with you?,,,,1==Almost always;2==No,Categorical,,q08-y07-m
+Does the child’s father live together with you?,,,,1==Almost always;2==Half of the time or more,Categorical,,q08-y07-m
+If not how much of the time does the child live with you?,,,,3==Less than half of the time,Categorical,,q08-y07-m
+What year did you move to your current address?,,,,Number,Numeric,,q08-y07-m
+On which floor is the child’s bedroom?,,,,Number,Numeric,,q08-y07-m
+Did you use wood-burning heating in the child’s home in the time before the child was 3 years old?,,,,1==Never;2==Rarely;3==Sometimes;4==Often,Categorical,,q08-y07-m
+During the last year did you ever use an open fire?,,,,1==Never;2==Rarely;3==Sometimes;4==Often,Categorical,,q08-y07-m
+During the last year has wood-burning heating been used as heating in the child’s home? source of heating in this home?,,,,1==No;2==Yes,Categorical,,q08-y07-m
+During the last year has wood-burning heating been used as heating in the child’s home? made before 1997?,,,,3==Don’t know,Categorical,,q08-y07-m
+Approximately how often do you burn candles in the home during the winter months?,,,,1==Never or less than 4 times;2==Only in December;3==1 to 3 times a week;4==4 to 6 times a week;5==Daily or almost daily;6==Several times a day on most days,Categorical,,q08-y07-m
+When did your child last use medications for asthma?,,,,1==Yesterday;2==Last 7 days;3==Last month;4==Last year,Categorical,,q08-y07-m
+Do you have or have you ever had a food allergy?,,,,1==No;2==Yes;3==Don’t know,Categorical,,q08-y07-m
